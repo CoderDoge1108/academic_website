@@ -1,43 +1,47 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Yifan Zhang
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Yifan
+last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student at Vanderbilt University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Vanderbilt University
+    url: https://www.vanderbilt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Yifan is a researcher focusing on AI for software engineering, graph neural networks, domain generalization and medical imaging. For the time being, he is pursuing his Ph.D. in Computer Science at Vanderbilt University, affiliated with Institute for Software Integrated Systems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AI for Software Engineering
+  - Graph Neural Networks
+  - Domain Generalization
+  - Medical Imaging
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Vanderbilt University
+      institution: Ph.D. in Computer Science, Specialize in AI for Software Engineering, 2022-2026
+      # year: 2022-2026
+    - course: Georgia Institute of Technology
+      institution: M.Sc. in Computer Science, Specialize in Computing Systems, 2022-2025
+      # year: 2022-2025
+    - course: China University of Petroleum
+      institution: B.A., B.Eng., M.Eng. in English & Petroleum Engineering, 2012-2019
+      # year: 2012-2019
+      # course: China University of Petroleum
+      # institution: B.A. in English (Minor in British Parliamentary Debate), 2013-2016
+      # year: 2013-2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,19 +53,25 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/CoderDoge1108
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/coderdoge1108/
+    label: Follow me on Instagram
+    display:
+      header: true
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=808gpN0AAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/CoderDoge1108
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/coderdoge/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,8 +87,4 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Yifan Zhang (Chinese: 张一凡) is a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang in the Institute for Software Integrated Systems (ISIS). He is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [China University of Petroleum at Beijing (CUPB)](https://www.cup.edu.cn/english/) and worked as a data scientist at the Intelligent Risk Management Lab at [JD.COM](https://corporate.jd.com/home). He has also worked as a research associate at the [University of Hong Kong (HKU)](https://www.hku.hk/) and [Duke University](https://duke.edu/). His research interests lie in AI for software engineering, graph neural networks, domain generalization, and medical imaging.
