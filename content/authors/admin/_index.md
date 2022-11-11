@@ -31,14 +31,14 @@ interests:
 education:
   courses:
     - course: Vanderbilt University
-      institution: Ph.D. in Computer Science, Specialize in AI for Software Engineering, 2022-2026
-      # year: 2022-2026
+      institution: Ph.D. in Computer Science (AI for Software Engineering)
+      year: 2022-2026
     - course: Georgia Institute of Technology
-      institution: M.Sc. in Computer Science, Specialize in Computing Systems, 2022-2025
-      # year: 2022-2025
+      institution: M.Sc. in Computer Science (Computing Systems)
+      year: 2022-2025
     - course: China University of Petroleum
-      institution: B.A., B.Eng., M.Eng. in English & Petroleum Engineering, 2012-2019
-      # year: 2012-2019
+      institution: B.A., B.Eng., M.Eng. in English & Petroleum Engineering
+      year: 2012-2019
       # course: China University of Petroleum
       # institution: B.A. in English (Minor in British Parliamentary Debate), 2013-2016
       # year: 2013-2016
@@ -87,4 +87,4 @@ email: ''
 highlight_name: true
 ---
 
-Yifan Zhang (Chinese: 张一凡) is a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang in the Institute for Software Integrated Systems (ISIS). He is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [China University of Petroleum at Beijing (CUPB)](https://www.cup.edu.cn/english/) and worked as a data scientist at the Intelligent Risk Management Lab at [JD.COM](https://corporate.jd.com/home). He has also worked as a research associate at the [University of Hong Kong (HKU)](https://www.hku.hk/) and [Duke University](https://duke.edu/). His research interests lie in AI for software engineering, graph neural networks, domain generalization, and medical imaging.
+Yifan Zhang (Chinese: 张一凡, 日本語: , Русский: ) is a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang in the Institute for Software Integrated Systems (ISIS). He is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [China University of Petroleum at Beijing (CUPB)](https://www.cup.edu.cn/english/) and worked as a data scientist at the Intelligent Risk Management Lab at [JD.COM](https://corporate.jd.com/home). He has also worked as a research associate at the [University of Hong Kong (HKU)](https://www.hku.hk/) and [Duke University](https://duke.edu/). His research interests lie in AI for software engineering, graph neural networks, domain generalization, and medical imaging.
