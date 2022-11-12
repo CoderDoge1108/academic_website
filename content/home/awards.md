@@ -54,7 +54,7 @@ item:
   - organization: Beijing Ministry of Education
     date_start: '2020-05-01'
     title: Beijing Outstanding Graduate Award
-    description: 'Student award for outstanding merits at Beijing (Top 0.1% nationwide)'
+    description: 'Student award for outstanding students at Beijing (Top 0.1% nationwide)'
   - organization: Tenaris
     date_start: '2020-05-01'
     title: Roberto Roca Education Fellowship
@@ -67,6 +67,14 @@ item:
     date_start: '2015-06-01'
     title: Dean's List for the Best Undergraduate Students
     description: 'Student award for the best undergraduate students (Top 4 university-wide)'
+  - organization: Schlumberger
+    date_start: '2014-10-01'
+    title: Schlumberger Engineering Fellowship
+    description: 'Fellowship for outstanding undergraduate students  (Top 8 university-wide)'
+  - organization: Chinese Ministry of Education
+    date_start: '2013-10-01'
+    title: Chinese National Scholarship
+    description: 'Scholarship for top undergraduate students in China (Top 0.2% nationwide)'
 
 design:
   columns: '2'
