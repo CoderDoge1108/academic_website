@@ -71,10 +71,10 @@ experience:
     description: |2-
         Intelligent Risk Management Lab, JD Technology
         
-        * Action Model: Built Bi-GRU and DeepFM models on user behavior features to predict the credit use rate and overall profit of every user in cash loan and consumer debt and increase overall profit by 21.4%.
-        * Credit Score Propagation: Built a heterogeneous graph on different types of user connections, and applied GNN models to propagate the credit score and improve risk prediction by 5%.
-        * Privacy-Preserving Collaboration: Invented one kind of GAN-styled model using differential privacy to improve the efficiency and security of federated learning. One patents was awarded as 1st Runner-up in the 3rd [JD Discovery Cup Patent Competition](https://blog.csdn.net/JDDTechTalk/article/details/109615799) (Top 0.1%).
-        * Book Chapter: Authored Chapter 5 of [Federated Learning: Technologies and Practices](https://www.amazon.cn/dp/B091GWK1Z6).
+        * Built Bi-GRU and DeepFM models on user behavior features to predict the credit use rate and overall profit of every user in cash loan and consumer debt. The model can propose decisions to increase their credit limit for maximizing income, and achieved 21.4% overall profit increase.
+        * Built a heterogeneous graph on different types of user connections, and applied GNN models to propagate the credit score. The model can improve the overall accuracy of the XGB model by 5% in user classification.
+        * Invented one kind of GAN-styled model using differential privacy to improve the efficiency and security of federated learning. Applied for 10 CN patents based on the research outputs, and was listed as 1st or 2nd inventor in 8 of them. One of the patents was awarded as 1st Runner-up in the 3rd [JD Discovery Cup Patent Competition](https://blog.csdn.net/JDDTechTalk/article/details/109615799) (Top 0.1%).
+        * Authored Chapter 5 of [Federated Learning: Technologies and Practices](https://www.amazon.cn/dp/B091GWK1Z6).
     
 
   - title: Data Science Mentor
