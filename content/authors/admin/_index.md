@@ -36,7 +36,7 @@ education:
     - course: Georgia Institute of Technology
       institution: M.Sc. in Computer Science (Computing Systems)
       year: 2022-2025
-    - course: China University of Petroleum
+    - course: China University of Petroleum, Beijing
       institution: B.A., B.Eng., M.Eng. in English & Petroleum Engineering
       year: 2012-2019
       # course: China University of Petroleum
@@ -87,4 +87,4 @@ email: ''
 highlight_name: true
 ---
 
-Yifan Zhang (中文: 张一凡, 日本語: ちょういっパン, Русский: Чжанифань) is a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang in the Institute for Software Integrated Systems (ISIS). He is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [China University of Petroleum at Beijing (CUPB)](https://www.cup.edu.cn/english/) and worked as a data scientist at the Intelligent Risk Management Lab at [JD.COM](https://corporate.jd.com/home). He has also worked as a research associate at the [University of Hong Kong (HKU)](https://www.hku.hk/) and [Duke University (Duke)](https://duke.edu/). His research interests lie in AI for software engineering, graph neural networks, domain generalization, and medical imaging.
+Yifan Zhang (中文: 张一凡, 日本語: ちょういっパン, Русский: ЧжанИфань) is a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang in the Institute for Software Integrated Systems (ISIS). He is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [China University of Petroleum, Beijing (CUPB)](https://www.cup.edu.cn/english/) and worked as a data scientist at the Intelligent Risk Management Lab at [JD.COM](https://corporate.jd.com/home). He has also worked as a research associate at the [University of Hong Kong (HKU)](https://www.hku.hk/) and [Duke University (Duke)](https://duke.edu/). His research interests lie in AI for software engineering, graph neural networks, domain generalization, and medical imaging.
