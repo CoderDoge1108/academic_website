@@ -41,22 +41,22 @@ item:
     title: Research Fellowship from National Institutes of Health (NIH)
   - organization: JD.COM
     date_start: '2020-07-01'
-    description: 'Patent competition award for technical innovation at JD.COM (Top %0.1 company-wide)'
+    description: 'Employee award for distinguished profit-making technical innovation at JD.COM (Top %0.1 company-wide)'
     title: First Runner-up in the 3rd JD.COM Patent Competition
   - organization: JD.COM
     date_start: '2020-06-01'
-    description: 'Technical recruiter award for distinguished interviewers at JD.COM (Top %5 company-wide)'
+    description: 'Employee award for distinguished interviewers at JD.COM (Top %5 company-wide)'
     title: Silver Medal Award of Distinguished JD.COM Technical Recruiter
   # - organization: JD.COM
   #   date_start: '2020-05-01'
   #   description: 'Lecturer award for certified JD.COM technical instructor'
   #   title: Bronze Medal Award of Certified JD.COM Technical Instructor
   - organization: Beijing Ministry of Education
-    date_start: '2020-05-01'
+    date_start: '2019-06-01'
     title: Beijing Outstanding Graduate Award
     description: 'Student award for outstanding students at Beijing (Top 0.1% nationwide)'
   - organization: Tenaris
-    date_start: '2020-05-01'
+    date_start: '2017-10-01'
     title: Roberto Roca Education Fellowship
     description: 'Fellowship for outstanding graduate students in China (Top 10 nationwide)'
   - organization: Chinese Ministry of Education
