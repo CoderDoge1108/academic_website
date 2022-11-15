@@ -5,6 +5,8 @@
 
 # Appearance
 
+i_am_a_sponsor: true
+
 appearance:
   theme_day: Minimal
   theme_night: Minimal
@@ -18,8 +20,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Yifan is a researcher focusing on AI for software engineering, graph neural networks, domain generalization and medical imaging. For the time being, he is pursuing his Ph.D. in Computer Science at Vanderbilt University, affiliated with Institute for Software Integrated Systems.'
+    twitter: 'CoderDoge1108'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Funds & Awards'
@@ -47,10 +47,10 @@ item:
     date_start: '2020-06-01'
     description: 'Employee award for distinguished interviewers at JD.COM (Top %5 company-wide)'
     title: Silver Medal Award of Distinguished JD.COM Technical Recruiter
-  # - organization: JD.COM
-  #   date_start: '2020-05-01'
-  #   description: 'Lecturer award for certified JD.COM technical instructor'
-  #   title: Bronze Medal Award of Certified JD.COM Technical Instructor
+  - organization: JD.COM
+    date_start: '2020-05-01'
+    description: 'Employee award for certified JD.COM technical instructor'
+    title: Bronze Medal Award of Certified JD.COM Technical Instructor
   - organization: Beijing Ministry of Education
     date_start: '2019-06-01'
     title: Beijing Outstanding Graduate Award
