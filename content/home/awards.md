@@ -62,7 +62,7 @@ item:
   - organization: Chinese Ministry of Education
     date_start: '2015-12-01'
     title: Chinese National Fellowship
-    description: 'Fellowship for undergraduate student in overseas study (Top 0.2% nationwide)'
+    description: 'Fellowship for undergraduate student in overseas study (CA$6000/4 months)'
   - organization: China University of Petroleum, Beijing
     date_start: '2015-06-01'
     title: Dean's List for the Best Undergraduate Students
