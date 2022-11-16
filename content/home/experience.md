@@ -104,7 +104,7 @@ experience:
         
         * Fullly funded by Chinese National Fellowship for overseas research
         * Worked on an undergraduate thesis project in the Reservoir Simulation Group with Professor Keliu Wu.
-        * Collaborated on one paper accepted by [Internation Journal of Coal Geology](https://www.sciencedirect.com/journal/international-journal-of-coal-geology) (IF: 6.806).
+        * Collaborated on one paper accepted by [International Journal of Coal Geology](https://www.sciencedirect.com/journal/international-journal-of-coal-geology) (IF: 6.806).
 
 design:
   columns: '2'

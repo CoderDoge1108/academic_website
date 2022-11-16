@@ -42,7 +42,7 @@ design:
 
 **Yifan Zhang**, Junwen Yang, Haoyu Dong, Qingchen Wang, Huajie (Jay) Shao, Kevin Leach, Yu Huang: [ASTRO: An AST-Assisted Approach for Generalizable Neural Clone Detection](https://arxiv.org/abs/2208.08067). Under Review by [ICSE-NIER 2023](https://conf.researchr.org/track/icse-2023/icse-2023-NIER).
 
-Haoyu Dong, **Yifan Zhang**, Hanxue Gu, Nicholas Konz, Maciej Mazurowski: [SwinSSL: Sliding-Window based Self-Supervised Learning Framework for Anomaly Detection](). Under review by [IEEE-TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
+Haoyu Dong, **Yifan Zhang**, Hanxue Gu, Nicholas Konz, Maciej Mazurowski: [SwinSSL: Sliding-Window based Self-Supervised Learning Framework for Anomaly Detection](). Under Review by [IEEE-TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 
 Haoyu Dong, **Yifan Zhang**, Nicholas Konz, Hanxue Gu, Maciej Mazurowski: [Localized Semi-Supervised Anomaly Detection for Breast Tomosynthesis Lesion Screening](). Under Review by [MIA](https://www.sciencedirect.com/journal/medical-image-analysis).
 
