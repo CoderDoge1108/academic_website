@@ -36,7 +36,11 @@ design:
   columns: '2'
 ---
 
-### Preprints & Submitted Papers
+### Preprints
+
+**Yifan Zhang**, Haoyu Dong, Nicholas Konz, Hanxue Gu, Maciej Mazurowski: [REPLICA: Enhanced Feature Pyramid Network by Local Image Translation and Conjunct Attention for High-Resolution Breast Tumor Detection](https://arxiv.org/abs/2111.11546v1). Preprint.
+
+### Submitted & Working Papers
 
 **Yifan Zhang**, Chen Huang, Yueke Zhang, Kevin Cao, Scott Thomas Anderson, Huajie (Jay) Shao, Kevin Leach, Yu Huang: [COMBO: Pre-Training Representations of Binary Code Using Contrastive Learning](https://arxiv.org/abs/2210.05102). Under Review by [ICDE 2023](https://icde2023.ics.uci.edu/).
 
@@ -46,9 +50,7 @@ Haoyu Dong, **Yifan Zhang**, Hanxue Gu, Nicholas Konz, Maciej Mazurowski: [SwinS
 
 Haoyu Dong, **Yifan Zhang**, Nicholas Konz, Hanxue Gu, Maciej Mazurowski: [Localized Semi-Supervised Anomaly Detection for Breast Tomosynthesis Lesion Screening](). Under Review by [MIA](https://www.sciencedirect.com/journal/medical-image-analysis).
 
-Chen Huang, **Yifan Zhang**, Kevin Leach, Yu Huang, Wenqiang Lei, Jiancheng Lv: [Cross-Domain Filters for Graph Convolutional Networks by Multiple Kernel Learning](). Under Review by [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
-
-**Yifan Zhang**, Haoyu Dong, Nicholas Konz, Hanxue Gu, Maciej Mazurowski: [REPLICA: Enhanced Feature Pyramid Network by Local Image Translation and Conjunct Attention for High-Resolution Breast Tumor Detection](https://arxiv.org/abs/2111.11546v1). Preprint.
+Chen Huang, **Yifan Zhang**, Kevin Leach, Yu Huang, Wenqiang Lei, Jiancheng Lv: [Cross-Domain Filters for Graph Convolutional Networks by Multiple Kernel Learning](). In Preparation for [ICML 2023](https://icml.cc/Conferences/2023/Dates).
 
 ***
 

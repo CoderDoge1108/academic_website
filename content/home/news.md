@@ -13,8 +13,9 @@ design:
 
 ---
 
+* [11/28/2022] Attended [NeurIPS 2022](https://nips.cc/) physically in New Orleans, LA, USA.
 
-* [10/10/2022] Attended [ASE 2022](https://conf.researchr.org/home/ase-2022) physically in Michigan, USA and presented one paper.
+* [10/10/2022] Attended [ASE 2022](https://conf.researchr.org/home/ase-2022) physically in Detroit, MI, USA and presented one paper.
 
 * [09/22/2022] Attended [MICCAI 2022](https://conferences.miccai.org/2022/en/) virtually in Singapore and presented one paper.
 

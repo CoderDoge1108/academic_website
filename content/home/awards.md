@@ -33,11 +33,11 @@ item:
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - organization: Vanderbilt Univeristy
     date_start: '2022-06-01'
-    description: 'Fellowship for Ph.D. study in Vanderbilt University (32500$/year)'
+    description: 'Fellowship for Ph.D. study at Vanderbilt University (32500$/year)'
     title: Research Fellowship from Defense Advanced Research Projects Agency (DARPA) 
   - organization: Duke Univeristy
     date_start: '2021-07-01'
-    description: 'Fellowship for research in Duke University ($36000/year)'
+    description: 'Fellowship for research at Duke University ($36000/year)'
     title: Research Fellowship from National Institutes of Health (NIH)
   - organization: JD.COM
     date_start: '2020-07-01'
@@ -54,7 +54,7 @@ item:
   - organization: Beijing Ministry of Education
     date_start: '2019-06-01'
     title: Beijing Outstanding Graduate Award
-    description: 'Student award for outstanding students at Beijing (Top 0.1% nationwide)'
+    description: 'Student award for outstanding graduates at Beijing (Top 0.1% nationwide)'
   - organization: Tenaris
     date_start: '2017-10-01'
     title: Roberto Roca Education Fellowship
@@ -62,11 +62,11 @@ item:
   - organization: Chinese Ministry of Education
     date_start: '2015-12-01'
     title: Chinese National Fellowship
-    description: 'Fellowship for undergraduate student in overseas study (CA$6000/4 months)'
+    description: 'Fellowship for undergraduate students in overseas study (CA$6000/4 months)'
   - organization: China University of Petroleum, Beijing
     date_start: '2015-06-01'
     title: Dean's List for the Best Undergraduate Students
-    description: 'Student award for the best undergraduate students (Top 4 university-wide)'
+    description: 'Student award for the best undergraduates (Top 4 university-wide)'
   - organization: Schlumberger
     date_start: '2014-10-01'
     title: Schlumberger Engineering Fellowship
