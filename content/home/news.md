@@ -13,6 +13,8 @@ design:
 
 ---
 
+* [12/04/2022] Invited as a Junior PC member for [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers) technical track.
+
 * [11/28/2022] Attended [NeurIPS 2022](https://nips.cc/) physically in New Orleans, LA, USA.
 
 * [10/10/2022] Attended [ASE 2022](https://conf.researchr.org/home/ase-2022) physically in Detroit, MI, USA and presented one paper.
