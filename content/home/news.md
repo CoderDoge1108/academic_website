@@ -13,6 +13,8 @@ design:
 
 ---
 
+* [01/06/2023] Invited as a PC member for [AAAI-DCAA 2023](https://ncsu-dk-lab.github.io/workshops/dcaa@2023/).
+
 * [12/04/2022] Invited as a Junior PC member for [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers) technical track.
 
 * [11/28/2022] Attended [NeurIPS 2022](https://nips.cc/) physically in New Orleans, LA, USA.

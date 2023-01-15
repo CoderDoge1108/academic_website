@@ -42,17 +42,17 @@ design:
 
 ### Submitted & Working Papers
 
-**Yifan Zhang**, Chen Huang, Yueke Zhang, Kevin Cao, Scott Thomas Anderson, Huajie (Jay) Shao, Kevin Leach, Yu Huang: [COMBO: Pre-Training Representations of Binary Code Using Contrastive Learning](https://arxiv.org/abs/2210.05102). Under Review by [ICDE 2023](https://icde2023.ics.uci.edu/).
+Yichang He, **Yifan Zhang**, Yunpeng Fan, U-Xuan Tan,: [Real-time Vibration Compensation with Long Short-term Memory Recurrent Neural Network and Adaptive Filter](), Under Review by [IEEE-TMech](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516).
 
-**Yifan Zhang**, Junwen Yang, Haoyu Dong, Qingchen Wang, Huajie (Jay) Shao, Kevin Leach, Yu Huang: [ASTRO: An AST-Assisted Approach for Generalizable Neural Clone Detection](https://arxiv.org/abs/2208.08067). Under Review by [ICSE-NIER 2023](https://conf.researchr.org/track/icse-2023/icse-2023-NIER).
+**Yifan Zhang**, Chen Huang, Yueke Zhang, Kevin Cao, Scott Thomas Anderson, Huajie (Jay) Shao, Kevin Leach, Yu Huang: [COMBO: Pre-Training Representations of Binary Code Using Contrastive Learning](https://arxiv.org/abs/2210.05102). In Preparation for [ESEC/FSE 2023](https://2023.esec-fse.org/).
 
-Haoyu Dong, **Yifan Zhang**, Hanxue Gu, Nicholas Konz, Maciej Mazurowski: [SwinSSL: Sliding-Window based Self-Supervised Learning Framework for Anomaly Detection](). Under Review by [IEEE-TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
+**Yifan Zhang**, Junwen Yang, Haoyu Dong, Qingchen Wang, Huajie (Jay) Shao, Kevin Leach, Yu Huang: [ASTRO: An AST-Assisted Approach for Generalizable Neural Clone Detection](https://arxiv.org/abs/2208.08067). Under Review by [ICSE-InteNSE 2023](https://intense23.github.io/).
+
+Haoyu Dong, **Yifan Zhang**, Hanxue Gu, Nicholas Konz, Maciej Mazurowski: [SwinSSL: Sliding-Window based Self-Supervised Learning Framework for Anomaly Detection](). Revision from [IEEE-TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 
 Haoyu Dong, **Yifan Zhang**, Nicholas Konz, Hanxue Gu, Maciej Mazurowski: [Localized Semi-Supervised Anomaly Detection for Breast Tomosynthesis Lesion Screening](). Under Review by [MIA](https://www.sciencedirect.com/journal/medical-image-analysis).
 
-Chen Huang, **Yifan Zhang**, Kevin Leach, Yu Huang, Wenqiang Lei, Jiancheng Lv: [Cross-Domain Filters for Graph Convolutional Networks by Multiple Kernel Learning](). In Preparation for [ICML 2023](https://icml.cc/Conferences/2023/Dates).
-
-***
+Chen Huang, **Yifan Zhang**, Kevin Leach, Yu Huang, Wenqiang Lei, Jiancheng Lv: [Cross-Domain Filters for Graph Convolutional Networks by Multiple Kernel Learning](). Underr Review by [IJCAI 2023](https://ijcai-23.org/).
 
 ### Journal & Conference Papers
 
