@@ -13,7 +13,11 @@ design:
 
 ---
 
-* [02/06/2023] Invited as a PC member for [MICCAI 2023](https://conferences.miccai.org/2023/en/).
+* [03/02/2023] One paper got accepted to [ICSE-InteNSE](https://intense23.github.io/)..
+
+* [03/02/2023] Accepted the Research Scientist intern position at [TikTok](https://www.tiktok.com/about) Infra Lab in San Jose, CA, USA.
+
+* [02/06/2023] Invited as a PC member for [MICCAI 2023](https://conferences.miccai.org/2023/en/) regular track.
 
 * [01/06/2023] Invited as a PC member for [AAAI-DCAA 2023](https://ncsu-dk-lab.github.io/workshops/dcaa@2023/).
 
