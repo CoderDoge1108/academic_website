@@ -13,7 +13,7 @@ design:
 
 ---
 
-* [03/02/2023] One paper got accepted to [ICSE-InteNSE](https://intense23.github.io/).
+* [03/02/2023] One paper got accepted to [ICSE-InteNSE 2023](https://intense23.github.io/).
 
 * [03/02/2023] Accepted a Research Scientist intern position at [TikTok](https://www.tiktok.com/about) in San Jose, CA, USA.
 
