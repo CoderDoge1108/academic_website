@@ -31,9 +31,9 @@ design:
 
 * [09/22/2022] Attended [MICCAI 2022](https://conferences.miccai.org/2022/en/) virtually in Singapore and presented one paper.
 
-* [08/05/2022] One paper got accepted to [ASE-DS 2022](https://conf.researchr.org/track/ase-2022/ase-2022-doctoral-symposium?).
+* [08/05/2022] One paper got accepted to [ASE 2022](https://conf.researchr.org/home/ase-2022) Doctoral Symposium.
 
-* [08/01/2022] Invited as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) regular track.
+* [08/01/2022] Invited as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) Regular Track.
 
 * [07/18/2022] One paper got accepted to [MICCAI-CaPTion 2022](https://caption-workshop.github.io/#Workshop%20sessions).
 
