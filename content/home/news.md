@@ -13,7 +13,7 @@ design:
 
 ---
 
-* [03/19/2023] Invited as a PC member for [MLSys 2023](https://mlsys.org/Conferences/2023) Artifact Evaluation Track.
+* [03/19/2023] Invited as a PC member for [MLSys 2023](https://mlsys.org/Conferences/2023) artifact evaluation track.
 
 * [03/02/2023] One paper got accepted to [ICSE-InteNSE 2023](https://intense23.github.io/).
 
@@ -31,9 +31,9 @@ design:
 
 * [09/22/2022] Attended [MICCAI 2022](https://conferences.miccai.org/2022/en/) virtually in Singapore and presented one paper.
 
-* [08/05/2022] One paper got accepted to [ASE 2022](https://conf.researchr.org/home/ase-2022) Doctoral Symposium.
+* [08/05/2022] One paper got accepted to [ASE 2022](https://conf.researchr.org/home/ase-2022) doctoral symposium.
 
-* [08/01/2022] Invited as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) Regular Track.
+* [08/01/2022] Invited as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) regular track.
 
 * [07/18/2022] One paper got accepted to [MICCAI-CaPTion 2022](https://caption-workshop.github.io/#Workshop%20sessions).
 
