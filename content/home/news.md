@@ -15,7 +15,7 @@ design:
 
 * [03/19/2023] Invited as a PC member for [MLSys 2023](https://mlsys.org/Conferences/2023) artifact evaluation track.
 
-* [03/02/2023] One paper got accepted to [ICSE-InteNSE 2023](https://intense23.github.io/).
+* [03/02/2023] One paper got accepted to [ICSEW 2023](https://conf.researchr.org/home/icse-2023).
 
 * [03/02/2023] Accepted a Research intern position at [TikTok](https://www.tiktok.com/about) in San Jose, CA, USA.
 
@@ -35,8 +35,8 @@ design:
 
 * [08/01/2022] Invited as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) regular track.
 
-* [07/18/2022] One paper got accepted to [MICCAI-CaPTion 2022](https://caption-workshop.github.io/#Workshop%20sessions).
+* [07/18/2022] One paper got accepted to [MICCAIW 2022](https://conferences.miccai.org/2022/en/).
 
-* [07/02/2022] Invited as a PC member for [MICCAI-CaPTion 2022](https://caption-workshop.github.io/#Workshop%20sessions).
+* [07/02/2022] Invited as a PC member for [MICCAIW 2022](https://conferences.miccai.org/2022/en/).
 
 * [06/01/2022] Started my Ph.D. in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/).
