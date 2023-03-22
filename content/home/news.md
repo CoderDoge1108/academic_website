@@ -37,6 +37,6 @@ design:
 
 * [07/18/2022] One paper got accepted to [MICCAIW 2022](https://conferences.miccai.org/2022/en/).
 
-* [07/02/2022] Invited as a PC member for [MICCAIW 2022](https://conferences.miccai.org/2022/en/).
+* [07/02/2022] Invited as a PC member for [MICCAI-CaPTion 2022](https://conferences.miccai.org/2022/en/).
 
 * [06/01/2022] Started my Ph.D. in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/).
