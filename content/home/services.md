@@ -17,6 +17,7 @@ design:
 * 2022 [Eric Li](https://www.linkedin.com/in/jiliang-eric-li/), undergraduate student in Computer Science & Mathematics at Vanderbilt University
 
 ### Program Comittee (PC) Member
+* 2023 Conference on Machine Learning and Systems (MLSys) Artifact Evaluation Track
 * 2023 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 * 2023 AAAI Workshop on DL-Hardware Co-Design for AI Acceleration (AAAI-DCAA)
 * 2023 International Conference on Mining Software Repositories (MSR)
