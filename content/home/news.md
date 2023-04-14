@@ -17,7 +17,7 @@ design:
 
 * [03/02/2023] One paper got accepted to [ICSE 2023](https://conf.researchr.org/home/icse-2023) workshops.
 
-* [03/02/2023] Accepted a research intern position at [TikTok](https://www.tiktok.com/about) in San Jose, CA, USA.
+* [03/02/2023] Accepted a research intern position at [ByteDance](https://www.bytedance.com/en/) in San Jose, CA, USA.
 
 * [02/06/2023] Invited as a PC member for [MICCAI 2023](https://conferences.miccai.org/2023/en/) regular track.
 

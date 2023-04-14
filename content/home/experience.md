@@ -32,8 +32,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Built a contrastive learning method to facilitates representation learning of binary code visualized by distribution analysis, and improves the performance on all three downstream tasks of software engineering and security by 5.45% on average compared to state-of-the-art large-scale language representation models (submitted to [ICDE](https://icde2023.ics.uci.edu/)).
-        * Designed an AST-based representation for source code that leverages program structure and semantics to improve state-of-the-art code clone detection. Our experimental results show that the model improves state-of-the-art neural clone detection approaches by up to 6.6% in F-1 score (submiteed to [ICSE-NIER](https://conf.researchr.org/track/icse-2023/icse-2023-NIER)).
+        * Built a contrastive learning method to facilitates representation learning of binary code visualized by distribution analysis, and improves the performance on all three downstream tasks of software engineering and security by 5.45% on average compared to state-of-the-art large-scale language representation models (under reivew by [ISSTA](https://conf.researchr.org/home/issta-2023)).
+        * Designed an AST-based representation for source code that leverages program structure and semantics to improve state-of-the-art code clone detection. Our experimental results show that the model improves state-of-the-art neural clone detection approaches by up to 6.6% in F-1 score (accepted by [ICSE](https://conf.researchr.org/home/icse-2023) workshop).
 
   - title: Research Associate
     company: Duke University
@@ -59,7 +59,7 @@ experience:
         HKU Business School
         
         * Built an entire intelligent debt collection system using data-driven deep reinforcement learning models. The model utilizes transformer as the feature extractor and attaches a offline policy gradient model trained on the embedded sequential-aware hidden features to propose long-term dependent decisions.
-        * Explored the application of GNNs on Finance and converted some of the ideas to a paper for addressing code clone detection (submiteed to [ICSE-NIER](https://conf.researchr.org/track/icse-2023/icse-2023-NIER)).
+        * Explored the application of GNNs on Finance and converted some of the ideas to a paper for addressing code clone detection (accepted by [ICSE](https://conf.researchr.org/home/icse-2023) workshop).
 
   - title: Data Scientist
     company: JD.COM
