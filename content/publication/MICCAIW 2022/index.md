@@ -29,8 +29,8 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *MICCAI workshop on Cancer Prevention through early detecTion*
-publication_short: In *MICCAI-CaPTion 2022*
+publication: In *MICCAI workshops*
+publication_short: In *MICCAIW 2022*
 
 abstract: Lesion detection in digital breast tomosynthesis (DBT) is an important and a challenging problem characterized by a low prevalence of images containing tumors. Due to the label scarcity problem, large deep learning models and computationally intensive algorithms are likely to fail when applied to this task. In this paper, we present a practical yet lightweight backbone to improve the accuracy of tumor detection. Specifically, we propose a novel modification of visual transformer (ViT) on image feature patches to connect the feature patches of a tumor with healthy backgrounds of breast images and form a more robust backbone for tumor detection. To the best of our knowledge, our model is the first work of Transformer backbone object detection for medical imaging. Our experiments show that this model can considerably improve the accuracy of lesion detection and reduce the amount of labeled data required in typical ViT. We further show that with additional augmented tumor data, our model significantly outperforms the Faster R-CNN model and state-of-the-art SWIN transformer model.
 
