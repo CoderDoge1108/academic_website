@@ -46,7 +46,7 @@ Yichang He, **Yifan Zhang**, Yunpeng Fan, U-Xuan Tan,: [Real-time Vibration Comp
 
 **Yifan Zhang**, Chen Huang, Yueke Zhang, Kevin Cao, Scott Thomas Anderson, Huajie (Jay) Shao, Kevin Leach, Yu Huang: [COMBO: Pre-Training Representations of Binary Code Using Contrastive Learning](https://arxiv.org/abs/2210.05102). Under Review.
 
-**Yifan Zhang**, Junwen Yang, Haoyu Dong, Qingchen Wang, Huajie (Jay) Shao, Kevin Leach, Yu Huang: [ASTRO: An AST-Assisted Approach for Generalizable Neural Clone Detection](https://arxiv.org/abs/2208.08067). Accepted by [ICSE-InteNSE 2023](https://intense23.github.io/).
+**Yifan Zhang**, Junwen Yang, Haoyu Dong, Qingchen Wang, Huajie (Jay) Shao, Kevin Leach, Yu Huang: [ASTRO: An AST-Assisted Approach for Generalizable Neural Clone Detection](https://arxiv.org/abs/2208.08067). Accepted by [ICSEW 2023](https://intense23.github.io/).
 
 Haoyu Dong, **Yifan Zhang**, Hanxue Gu, Nicholas Konz, Maciej Mazurowski: [SwinSSL: Sliding-Window based Self-Supervised Learning Framework for Anomaly Detection](). Revision from [IEEE-TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 
