@@ -13,6 +13,8 @@ design:
 
 ---
 
+* [04/13/2023] One paper got accepted to [AIM 2023](https://aim2023.org/) focused section.
+
 * [03/19/2023] Invited as a PC member for [MLSys 2023](https://mlsys.org/Conferences/2023) artifact evaluation track.
 
 * [03/02/2023] One paper got accepted to [ICSE 2023](https://conf.researchr.org/home/icse-2023) workshops.
