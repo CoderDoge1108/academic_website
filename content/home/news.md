@@ -13,6 +13,10 @@ design:
 
 ---
 
+* [07/13/2023] Invited as a PC member for [AAAI 2024](https://aaai.org/Conferences/AAAI-24/) regular track.
+
+* [07/07/2023] One paper got accepted to [ASE 2023](https://aim2023.org/) new ideas and emerging results.
+
 * [04/13/2023] One paper got accepted to [AIM 2023](https://aim2023.org/) focused section.
 
 * [03/19/2023] Invited as a PC member for [MLSys 2023](https://mlsys.org/Conferences/2023) artifact evaluation track.

@@ -17,6 +17,7 @@ design:
 * 2022 [Eric Li](https://www.linkedin.com/in/jiliang-eric-li/), undergraduate student in Computer Science & Mathematics at Vanderbilt University
 
 ### Program Comittee (PC) Member
+* 2024 AAAI Conference on Artificial Intelligence (AAAI)
 * 2023 Conference on Machine Learning and Systems (MLSys) Artifact Evaluation Track
 * 2023 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
 * 2023 AAAI Workshop on DL-Hardware Co-Design for AI Acceleration (AAAI-DCAA)
@@ -25,5 +26,6 @@ design:
 * 2022 MICCAI Workshop on Cancer Prevention through early detecTion (MICCAI-CaPTion)
 
 ### External Conference Reviewer
+* 2024 International Conference on Very Large Data Bases (VLDB)
 * 2023 USENIX Security Symposium (USENIX)
 * 2022 Computer Vision and Pattern Recognition Conference (CVPR)
