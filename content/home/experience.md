@@ -37,7 +37,7 @@ experience:
   - title: Graduate Research Assistant
     company: Vanderbilt University
     company_url: 'https://www.vanderbilt.edu/'
-    company_logo: 
+    company_logo: vandy
     location: Nashville, TN, USA
     date_start: '2022-04-01'
     date_end: ''
@@ -50,7 +50,7 @@ experience:
   - title: Research Associate
     company: Duke University
     company_url: 'https://duke.edu/'
-    company_logo: 
+    company_logo: duke
     location: Durham, NC, USA
     date_start: '2021-07-01'
     date_end: '2022-06-01'
@@ -63,7 +63,7 @@ experience:
   - title: Senior Research Assistant
     company: The University of Hong Kong
     company_url: 'https://www.hku.hk/'
-    company_logo: 
+    company_logo: hku
     location: Hong Kong SAR
     date_start: '2021-03-01'
     date_end: '2021-09-01'
