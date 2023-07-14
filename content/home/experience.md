@@ -28,7 +28,7 @@ experience:
     company_logo: bytedance.png
     location: San Jose, CA, USA
     date_start: '2023-05-22'
-    date_end: ''
+    date_end: '2023-08-11'
     description: |2-
         Responsibilities include:
         
