@@ -22,17 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Scientist Intern
-    company: ByteDance
-    company_url: 'https://www.bytedance.com/en/'
-    company_logo: # bytedance.png
-    location: San Jose, CA, USA
-    date_start: '2023-05-22'
-    date_end: '2023-08-11'
-    description: |2-
-        Responsibilities include:
+  # - title: Research Scientist Intern
+  #   company: ByteDance
+  #   company_url: 'https://www.bytedance.com/en/'
+  #   company_logo: # bytedance.png
+  #   location: San Jose, CA, USA
+  #   date_start: '2023-05-22'
+  #   date_end: '2023-08-11'
+  #   description: |2-
+  #       Responsibilities include:
         
-        * TBD
+  #       * TBD
 
   - title: Graduate Research Assistant
     company: Vanderbilt University
