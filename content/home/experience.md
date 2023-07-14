@@ -25,7 +25,7 @@ experience:
   - title: Research Scientist Intern
     company: ByteDance
     company_url: 'https://www.bytedance.com/en/'
-    company_logo: bytedance
+    company_logo: bytedance.png
     location: San Jose, CA, USA
     date_start: '2023-05-22'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Graduate Research Assistant
     company: Vanderbilt University
     company_url: 'https://www.vanderbilt.edu/'
-    company_logo: vandy
+    company_logo: vandy.png
     location: Nashville, TN, USA
     date_start: '2022-04-01'
     date_end: ''
@@ -50,7 +50,7 @@ experience:
   - title: Research Associate
     company: Duke University
     company_url: 'https://duke.edu/'
-    company_logo: duke
+    company_logo: duke.png
     location: Durham, NC, USA
     date_start: '2021-07-01'
     date_end: '2022-06-01'
@@ -63,7 +63,7 @@ experience:
   - title: Senior Research Assistant
     company: The University of Hong Kong
     company_url: 'https://www.hku.hk/'
-    company_logo: hku
+    company_logo: hku.png
     location: Hong Kong SAR
     date_start: '2021-03-01'
     date_end: '2021-09-01'
@@ -76,7 +76,7 @@ experience:
   - title: Data Scientist
     company: JD.COM
     company_url: 'https://corporate.jd.com/home'
-    company_logo: 
+    company_logo: jd.png
     location:  Beijing, CN
     date_start: '2018-12-01'
     date_end: '2021-03-01'
