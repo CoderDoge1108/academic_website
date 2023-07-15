@@ -25,19 +25,19 @@ experience:
   - title: Research Scientist Intern
     company: ByteDance
     company_url: 'https://www.bytedance.com/en/'
-    company_logo: org-x
+    company_logo: bytedance
     location: San Jose, CA, USA
     date_start: '2023-05-22'
     date_end: '2023-08-11'
     description: |2-
         Responsibilities include:
         
-        * TBD
+        * Enhancing the SQL pipeline using a hint recommendation system based on representation learning. This is an ongoing project by the time of completing this item.
 
   - title: Graduate Research Assistant
     company: Vanderbilt University
     company_url: 'https://www.vanderbilt.edu/'
-    company_logo: org-gc
+    company_logo: vandy
     location: Nashville, TN, USA
     date_start: '2022-04-01'
     date_end: ''
@@ -50,7 +50,7 @@ experience:
   - title: Research Associate
     company: Duke University
     company_url: 'https://duke.edu/'
-    company_logo: duke.png
+    company_logo: duke
     location: Durham, NC, USA
     date_start: '2021-07-01'
     date_end: '2022-06-01'
@@ -63,7 +63,7 @@ experience:
   - title: Senior Research Assistant
     company: The University of Hong Kong
     company_url: 'https://www.hku.hk/'
-    company_logo: hku.png
+    company_logo: hku
     location: Hong Kong SAR
     date_start: '2021-03-01'
     date_end: '2021-09-01'
@@ -76,7 +76,7 @@ experience:
   - title: Data Scientist
     company: JD.COM
     company_url: 'https://corporate.jd.com/home'
-    company_logo: jd.png
+    company_logo: jd
     location:  Beijing, CN
     date_start: '2018-12-01'
     date_end: '2021-03-01'
@@ -92,7 +92,7 @@ experience:
   - title: Data Science Mentor
     company: Udacity
     company_url: 'https://www.udacity.com/'
-    company_logo: 
+    company_logo: udacity
     location: Shanghai, CN
     date_start: '2018-05-01'
     date_end: '2019-04-01'
@@ -107,7 +107,7 @@ experience:
   - title: Undergraduate Visiting Student
     company: University of Calgary
     company_url: 'https://www.ucalgary.ca/'
-    company_logo: 
+    company_logo: ucalgary
     location: Calgary, AB, CA
     date_start: '2015-12-01'
     date_end: '2016-05-01'
