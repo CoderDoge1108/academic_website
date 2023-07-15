@@ -25,7 +25,7 @@ experience:
   - title: Research Scientist Intern
     company: ByteDance
     company_url: 'https://www.bytedance.com/en/'
-    company_logo: org.gc
+    company_logo: org-x
     location: San Jose, CA, USA
     date_start: '2023-05-22'
     date_end: '2023-08-11'
