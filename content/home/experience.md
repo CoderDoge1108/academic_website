@@ -30,7 +30,7 @@ experience:
     date_start: '2023-05-22'
     date_end: '2023-08-11'
     description: |2-
-        Responsibilities include:
+        Infrastructure Systems Lab
         
         * Enhancing the SQL pipeline using a hint recommendation system based on representation learning. This is an ongoing project by the time of completing this item.
 
@@ -42,7 +42,7 @@ experience:
     date_start: '2022-04-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Institute fot Software Integrated Systems
         
         * Built a contrastive learning method to facilitates representation learning of binary code visualized by distribution analysis, and improves the performance on all three downstream tasks of software engineering and security by 5.45% on average compared to state-of-the-art large-scale language representation models (under reivew by [ISSTA](https://conf.researchr.org/home/issta-2023)).
         * Designed an AST-based representation for source code that leverages program structure and semantics to improve state-of-the-art code clone detection. Our experimental results show that the model improves state-of-the-art neural clone detection approaches by up to 6.6% in F-1 score (accepted by [ICSE](https://conf.researchr.org/home/icse-2023) workshop).
