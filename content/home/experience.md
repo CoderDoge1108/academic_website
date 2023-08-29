@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Scientist Intern
-    company: TikTok
-    company_url: 'https://in.tiktok.com/en/'
-    company_logo: tiktok
+    company: ByteDance
+    company_url: 'https://www.bytedance.com/en/'
+    company_logo: bytedance
     location: San Jose, CA, USA
     date_start: '2023-05-22'
     date_end: '2023-08-11'
