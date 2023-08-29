@@ -22,7 +22,7 @@ bio: Yifan is a researcher focusing on AI for software engineering, graph neural
 
 # Interests to show in About widget
 interests:
-  - AI for Code
+  - AI for Code (AI4Code)
   - Code Structure Learning
   - Cognitive Neural Code Analysis
   - Binary Code & Medical Imaging
@@ -87,4 +87,4 @@ email: ''
 highlight_name: true
 ---
 
-Yifan Zhang (中文: 张一凡, 日本語: ちょういっパン, Русский: Чжан Ифань) is a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang at the Institute for Software Integrated Systems (ISIS). He is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [China University of Petroleum (CUP)](https://www.cup.edu.cn/english/) at Beijing and worked as a data scientist at the Intelligent Risk Management Lab at [JD.COM](https://corporate.jd.com/home). He has also worked as a research associate at the [University of Hong Kong (HKU)](https://www.hku.hk/) and [Duke University (Duke)](https://duke.edu/). His research interests lie in AI for code, code structural learning, cognitive neural code analysis, and binary code & medical imaging.
+Yifan Zhang (中文: 张一凡, 日本語: ちょういっパン, Русский: Чжан Ифань) is a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang at the Institute for Software Integrated Systems (ISIS). He is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [China University of Petroleum (CUP)](https://www.cup.edu.cn/english/) at Beijing and worked as a data scientist at the Intelligent Risk Management Lab at [JD.COM](https://corporate.jd.com/home). He has also worked as a research associate at the [University of Hong Kong (HKU)](https://www.hku.hk/) and [Duke University (Duke)](https://duke.edu/). His research interests lie in AI for code (AI4Code), code structural learning, cognitive neural code analysis, and binary code & medical imaging.
