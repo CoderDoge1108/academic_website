@@ -13,7 +13,7 @@ design:
 ---
 
 ### Academic Mentorship
-* 2023 [Ryan Li](https://www.linkedin.com/in/ryan-li-4a5771172/), undergraduate student in Computer Science at Vanderbilt University
+* 2023 [Luka Mushkudiani](https://www.linkedin.com/in/luka-mushkudiani-043937222/), undergraduate student in Computer Science & Mathmatics at Vanderbilt University
 * 2022 [Eric Li](https://www.linkedin.com/in/jiliang-eric-li/), undergraduate student in Computer Science & Mathematics at Vanderbilt University
 
 ### Program Comittee (PC) Member
