@@ -14,7 +14,7 @@ design:
 # * [04/13/2023] One paper got accepted to [AIM 2023](https://aim2023.org/) focused section.
 ---
 
-* [03/02/2023] One collaborative paper got accepted to [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
+* [09/05/2023] One collaborative paper got accepted to [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 
 * [07/13/2023] Invited as a PC member for [AAAI 2024](https://aaai.org/Conferences/AAAI-24/) regular track.
 
