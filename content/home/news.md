@@ -22,19 +22,19 @@ design:
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Exam](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php) at Vanderbilt University.
 
-* [09/05/2023] One paper got accepted to ([TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)), impact factor 11.037.
+* [09/05/2023] One paper got accepted to ([TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)) with impact factor of 11.037.
 
-* [07/13/2023] Invited as a PC member for [AAAI'24](https://aaai.org/Conferences/AAAI-24/) regular track.
+* [07/13/2023] Invited as a PC member for [AAAI'24](https://aaai.org/Conferences/AAAI-24/).
 
 * [07/07/2023] One paper got accepted to proceedings of [ASE'23 NIER](https://conf.researchr.org/track/ase-2023/ase-2023-nier-track?). 
 
-* [03/19/2023] Invited as a PC member for [MLSys'23](https://mlsys.org/Conferences/2023) artifact evaluation track.
+* [03/19/2023] Invited as a PC member for [MLSys'23 AE](https://mlsys.org/Conferences/2023/CallForAE).
 
 * [03/02/2023] One paper got accepted to [InteNSE@ICSE'23](https://intense23.github.io/).
 
 * [03/02/2023] Accepted a research intern position at [ByteDance](https://www.bytedance.com/en/) in San Jose, CA, USA.
 
-* [02/06/2023] Invited as a PC member for [MICCAI'23](https://conferences.miccai.org/2023/en/) regular track.
+* [02/06/2023] Invited as a PC member for [MICCAI'23](https://conferences.miccai.org/2023/en/).
 
 * [01/06/2023] Invited as a PC member for [DCAA@AAAI'23](https://ncsu-dk-lab.github.io/workshops/dcaa@2023/).
 
