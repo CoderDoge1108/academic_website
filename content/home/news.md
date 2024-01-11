@@ -20,7 +20,7 @@ design:
 
 ## 2023
 
-* [12/19/2023] Passed my Ph.D. [Preliminary Examination](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php) at Vanderbilt University.
+* [12/19/2023] Passed my Ph.D. [Preliminary Examination](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php).
 
 * [09/05/2023] One paper got accepted to [TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) with IF of 11.037.
 
