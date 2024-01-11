@@ -14,7 +14,7 @@ design:
 # * [04/13/2023] One paper got accepted to [AIM 2023](https://aim2023.org/) focused section.
 ---
 
-* [01/04/2024] One paper got accepted to [ICPC 2024](https://conf.researchr.org/home/icpc-2024) RENE track. 
+* [01/04/2024] One paper got accepted to [ICPC 2024](https://conf.researchr.org/home/icpc-2024) replication and negative results track. 
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Exam](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php) at Vanderbilt University.
 
@@ -22,7 +22,7 @@ design:
 
 * [07/13/2023] Invited as a PC member for [AAAI 2024](https://aaai.org/Conferences/AAAI-24/) regular track.
 
-* [07/07/2023] One paper got accepted to [ASE 2023](https://conf.researchr.org/home/ase-2023) NIER track. 
+* [07/07/2023] One paper got accepted to [ASE 2023](https://conf.researchr.org/home/ase-2023) new ideas and emerging result track. 
 
 * [03/19/2023] Invited as a PC member for [MLSys 2023](https://mlsys.org/Conferences/2023) artifact evaluation track.
 
