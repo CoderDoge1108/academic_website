@@ -22,7 +22,7 @@ design:
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Exam](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php) at Vanderbilt University.
 
-* [12/17/2023] Invited as a PC member for [NAACL 2024](https://2024.naacl.org/).
+* [12/17/2023] Invited as a PC member for [NAACL 2024](https://2024.naacl.org/) regular track.
 
 * [09/05/2023] One paper got accepted to [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 
