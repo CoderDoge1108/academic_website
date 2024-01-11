@@ -32,7 +32,7 @@ design:
 
 * [03/02/2023] One paper got accepted to [InteNSE@ICSE'23](https://intense23.github.io/).
 
-* [03/02/2023] Accepted a research intern position at [ByteDance](https://www.bytedance.com/en/) in San Jose, CA, USA.
+* [03/02/2023] Accepted a RS intern position at [ByteDance](https://www.bytedance.com/en/) in San Jose, CA, USA.
 
 * [02/06/2023] Invited as a PC member for [MICCAI'23](https://conferences.miccai.org/2023/en/).
 
