@@ -14,11 +14,11 @@ design:
 # * [04/13/2023] One paper got accepted to [AIM 2023](https://aim2023.org/) focused section.
 ---
 
-## 2024-2025
+## 2024
 
 * [01/04/2024] One paper got accepted to proceedings of [ICPC 2024](https://conf.researchr.org/home/icpc-2024).
 
-## 2023-2024
+## 2023
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Exam](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php) at Vanderbilt University.
 
@@ -38,7 +38,7 @@ design:
 
 * [01/06/2023] Invited as a PC member for [DCAA@AAAI 2023](https://ncsu-dk-lab.github.io/workshops/dcaa@2023/).
 
-## 2022-2023
+## 2022
 
 * [12/04/2022] Invited as a Junior PC member for [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers) technical track.
 
