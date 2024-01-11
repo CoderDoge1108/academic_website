@@ -26,7 +26,7 @@ design:
 
 * [03/19/2023] Invited as a PC member for [MLSys 2023](https://mlsys.org/Conferences/2023) artifact evaluation track.
 
-* [03/02/2023] One paper got accepted to [InteNSE 2023](https://intense23.github.io/) (co-located with ICSE 2023)).
+* [03/02/2023] One paper got accepted to [InteNSE 2023](https://intense23.github.io/) (co-located with ICSE 2023).
 
 * [03/02/2023] Accepted a research intern position at [ByteDance](https://www.bytedance.com/en/) in San Jose, CA, USA.
 
