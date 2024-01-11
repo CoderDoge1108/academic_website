@@ -14,7 +14,7 @@ design:
 # * [04/13/2023] One paper got accepted to [AIM 2023](https://aim2023.org/) focused section.
 ---
 
-* [01/04/2024] One paper got accepted to [ICPC 2024](https://conf.researchr.org/home/icpc-2024) replication and negative results track. 
+* [01/04/2024] One paper got accepted to [ICPC 2024](https://conf.researchr.org/home/icpc-2024) proceedings.
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Exam](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php) at Vanderbilt University.
 
@@ -22,11 +22,11 @@ design:
 
 * [07/13/2023] Invited as a PC member for [AAAI 2024](https://aaai.org/Conferences/AAAI-24/) regular track.
 
-* [07/07/2023] One paper got accepted to [ASE 2023](https://conf.researchr.org/home/ase-2023) new ideas and emerging result track. 
+* [07/07/2023] One paper got accepted to [ASE 2023](https://conf.researchr.org/home/ase-2023) proceedings. 
 
 * [03/19/2023] Invited as a PC member for [MLSys 2023](https://mlsys.org/Conferences/2023) artifact evaluation track.
 
-* [03/02/2023] One paper got accepted to [InteNSE 2023](https://intense23.github.io/) (co-located with ICSE 2023).
+* [03/02/2023] One paper got accepted to [ICSE 2023](https://conf.researchr.org/home/icse-2023) workshops.
 
 * [03/02/2023] Accepted a research intern position at [ByteDance](https://www.bytedance.com/en/) in San Jose, CA, USA.
 
@@ -46,7 +46,7 @@ design:
 
 * [08/01/2022] Invited as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) regular track.
 
-* [07/18/2022] One paper got accepted to [CaPTion 2022](https://caption-workshop.github.io/) (co-located with MICCAI 2022).
+* [07/18/2022] One paper got accepted to [MICCAI 2022](https://conferences.miccai.org/2022/en/) workshops.
 
 * [07/02/2022] Invited as a PC member for [CaPTion@MICCAI 2022](https://conferences.miccai.org/2022/en/).
 
