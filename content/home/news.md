@@ -18,7 +18,7 @@ design:
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Exam](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php) at Vanderbilt University.
 
-* [09/05/2023] One paper got accepted to [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
+* [09/05/2023] One paper got accepted to [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) (Impact Factor 11.037).
 
 * [07/13/2023] Invited as a PC member for [AAAI 2024](https://aaai.org/Conferences/AAAI-24/) regular track.
 
