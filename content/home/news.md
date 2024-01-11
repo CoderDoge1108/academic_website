@@ -18,7 +18,7 @@ design:
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Exam](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php) at Vanderbilt University.
 
-* [09/05/2023] One paper got accepted to [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) (IF: 10.6).
+* [09/05/2023] One paper got accepted to [IEEE TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
 
 * [07/13/2023] Invited as a PC member for [AAAI 2024](https://aaai.org/Conferences/AAAI-24/) regular track.
 
@@ -26,13 +26,13 @@ design:
 
 * [03/19/2023] Invited as a PC member for [MLSys 2023](https://mlsys.org/Conferences/2023) artifact evaluation track.
 
-* [03/02/2023] One paper got accepted to [ICSE 2023](https://conf.researchr.org/home/icse-2023) workshops.
+* [03/02/2023] One paper got accepted to [InteNSE](https://intense23.github.io/) (co-located with ICSE 2023)).
 
 * [03/02/2023] Accepted a research intern position at [ByteDance](https://www.bytedance.com/en/) in San Jose, CA, USA.
 
 * [02/06/2023] Invited as a PC member for [MICCAI 2023](https://conferences.miccai.org/2023/en/) regular track.
 
-* [01/06/2023] Invited as a PC member for [AAAI-DCAA 2023](https://ncsu-dk-lab.github.io/workshops/dcaa@2023/).
+* [01/06/2023] Invited as a PC member for [DCAA@AAAI 2023](https://ncsu-dk-lab.github.io/workshops/dcaa@2023/).
 
 * [12/04/2022] Invited as a Junior PC member for [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers) technical track.
 
@@ -46,8 +46,8 @@ design:
 
 * [08/01/2022] Invited as a PC member for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) regular track.
 
-* [07/18/2022] One paper got accepted to [MICCAI 2022](https://conferences.miccai.org/2022/en/) workshops.
+* [07/18/2022] One paper got accepted to [CaPTion 2022](https://caption-workshop.github.io/) (co-located with MICCAI 2022)).
 
-* [07/02/2022] Invited as a PC member for [MICCAI-CaPTion 2022](https://conferences.miccai.org/2022/en/).
+* [07/02/2022] Invited as a PC member for [CaPTion@MICCAI 2022](https://conferences.miccai.org/2022/en/).
 
 * [06/01/2022] Started my Ph.D. in Computer Science at [Vanderbilt University](https://www.vanderbilt.edu/).
