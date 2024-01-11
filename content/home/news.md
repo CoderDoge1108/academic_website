@@ -14,7 +14,7 @@ design:
 # * [04/13/2023] One paper got accepted to [AIM 2023](https://aim2023.org/) focused section.
 ---
 
-* [01/04/2024] One paper got accepted to [ICPC](https://conf.researchr.org/home/icpc-2024) RENE Track. 
+* [01/04/2024] One paper got accepted to [ICPC](https://conf.researchr.org/home/icpc-2024) RENE track. 
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Exam](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php) at Vanderbilt University.
 
