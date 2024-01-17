@@ -73,7 +73,7 @@ experience:
         * Built an entire intelligent debt collection system using data-driven deep reinforcement learning models. The model utilizes transformer as the feature extractor and attaches a offline policy gradient model trained on the embedded sequential-aware hidden features to propose long-term dependent decisions.
         * Explored the application of GNNs on Finance and converted some of the ideas to a paper for addressing code clone detection (accepted by [ICSE](https://conf.researchr.org/home/icse-2023) workshop).
 
-  - title: Data Scientist
+  - title: Machine Learning Engineer
     company: JD.COM
     company_url: 'https://corporate.jd.com/home'
     company_logo: jd
