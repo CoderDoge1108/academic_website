@@ -16,7 +16,9 @@ design:
 
 ## 2024
 
-* [01/11/2023] Invited as a PC member for [DMLR@ICLR'24](https://dmlr.ai/).
+* [01/22/2024] One paper got accepted to [FSE'24](https://2024.esec-fse.org/track/fse-2024-research-papers) with direct AR of 11.59%.
+
+* [01/11/2024] Invited as a PC member for [DMLR@ICLR'24](https://dmlr.ai/).
 
 * [01/04/2024] One paper got accepted to [ICPC‘24 RENE](https://conf.researchr.org/track/icpc-2024/icpc-2024-replications-and-negative-results--rene-).
 
