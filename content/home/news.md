@@ -16,6 +16,8 @@ design:
 
 ## 2024
 
+* [01/22/2024] One paper got accepted to [WWW'24](https://www2024.thewebconf.org/) with overall AR of 20.2%.
+
 * [01/22/2024] One paper got accepted to [FSE'24](https://2024.esec-fse.org/track/fse-2024-research-papers) with direct AR of 11.59%.
 
 * [01/11/2024] Invited as a PC member for [DMLR@ICLR'24](https://dmlr.ai/).
