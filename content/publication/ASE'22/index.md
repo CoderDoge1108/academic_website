@@ -25,8 +25,8 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Automated Software Engineering (ASE) Doctoral Symposium 2022*
-publication_short: In *ASE-DS 2022*
+publication: In *roceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE)*
+publication_short: In *ASE'22*
 
 abstract: Understanding binary code is an essential but complex software engineering task for reverse engineering, malware analysis, and compiler optimization. Unlike source code, binary code has limited semantic information, which makes it challenging for human comprehension. At the same time, compiling source to binary code, or transpiling among different programming languages (PLs) can provide a way to introduce external knowledge into binary comprehension. We propose to develop Artificial Intelligence (AI) models that aid human comprehension of binary code. Specifically, we propose to incorporate domain knowledge from large corpora of source code (e.g., variable names, comments) to build AI models that capture a generalizable representation of binary code. Lastly, we will investigate metrics to assess the performance of models that apply to binary code by using human studies of comprehension.
 
