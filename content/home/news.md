@@ -16,6 +16,8 @@ design:
 
 ## 2024
 
+* [04/09/2024] Invited as a PC member for [CCS'24 AE](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-artifacts.html).
+
 * [03/15/2024] Selected as a top reviewer for [DMLR@ICLR'24](https://dmlr.ai/reviewers/) with TR of 9.41%.
 
 * [01/25/2024] Invited as a PC member for [MICCAI'24](https://conferences.miccai.org/2024/en/).
