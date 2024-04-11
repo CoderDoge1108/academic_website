@@ -40,6 +40,9 @@ education:
     - course: China University of Petroleum
       institution: B.A., B.Eng., M.Eng. in English & Petroleum Engineering
       year: 2012-2019
+    - course: The University of Calgary
+      institution: B.Eng. Exchange Program in Petroleum Engineering
+      year: 2015-2016
       # course: China University of Petroleum
       # institution: B.A. in English (Minor in British Parliamentary Debate), 2013-2016
       # year: 2013-2016
