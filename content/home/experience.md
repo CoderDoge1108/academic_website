@@ -104,7 +104,7 @@ experience:
         * Awarded [Oustanding Mentor](https://www.udacity.com/start-mentoring) of Udacity China (Top 1%)
     
 
-  - title: Undergraduate Visiting Student
+  - title: Undergraduate Exchange Student
     company: University of Calgary
     company_url: 'https://www.ucalgary.ca/'
     company_logo: ucalgary
