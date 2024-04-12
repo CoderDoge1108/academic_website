@@ -19,7 +19,7 @@ design:
 * 2022 [Eric Li](https://www.linkedin.com/in/jiliang-eric-li/), undergraduate student in CS & Math at Vanderbilt University
 
 ### Program Comittee (PC) Member
-* 2024 ACM Conference on Computer and Communications Security at ICLR (CCS'24) Artifact Evaluation Track
+* 2024 ACM Conference on Computer and Communications Security (CCS'24) Artifact Evaluation Track
 * 2024 Data-centric Machine Learning Research Workshop at ICLR (DMLR@ICLR'24)
 * 2024 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI'24)
 * 2024 AAAI Conference on Artificial Intelligence (AAAI'24)
