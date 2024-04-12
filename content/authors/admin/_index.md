@@ -32,10 +32,10 @@ interests:
 education:
   courses:
     - course: Vanderbilt University
-      institution: Ph.D. in Computer Science (AI for Software Engineering)
+      institution: Ph.D. in Computer Science, AI for Software Engineering
       year: 2022-2026
     - course: Georgia Institute of Technology
-      institution: M.Sc. in Computer Science (Computing Systems)
+      institution: M.Sc. in Computer Science, Machine Learning
       year: 2022-2025
     - course: China University of Petroleum
       institution: B.A., B.Eng., M.Eng. in English & Petroleum Engineering
