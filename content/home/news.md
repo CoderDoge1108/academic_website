@@ -16,13 +16,15 @@ design:
 
 ## 2024
 
+* [04/23/2024] On paper got accepted to [ACM TOSEM](https://dl.acm.org/journal/tosem), the Top2 Journals in Software Engineering. Congrats Zach!
+
 * [04/09/2024] Invited as a PC member for [CCS'24 AE](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-artifacts.html).
 
 * [03/15/2024] Selected as a top reviewer for [DMLR@ICLR'24](https://dmlr.ai/reviewers/) with TR of 9.41%.
 
 * [01/25/2024] Invited as a PC member for [MICCAI'24](https://conferences.miccai.org/2024/en/).
 
-* [01/23/2024] One paper got accepted to [WWW'24](https://www2024.thewebconf.org/) with AR of 20.2%.
+* [01/23/2024] One paper got accepted to [WWW'24](https://www2024.thewebconf.org/) with AR of 20.2%. Congrats Chen!
 
 * [01/22/2024] One paper got accepted to [FSE'24](https://2024.esec-fse.org/track/fse-2024-research-papers) with direct AR of 11.59%.
 
@@ -34,11 +36,11 @@ design:
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Examination](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php).
 
-* [09/05/2023] One paper got accepted to [TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) with IF of 11.037.
+* [09/05/2023] One paper got accepted to [TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42), the top1 Journal in Medical Imaing. Congrats Haoyu!
 
 * [07/13/2023] Invited as a PC member for [AAAI'24](https://aaai.org/Conferences/AAAI-24/).
 
-* [07/07/2023] One paper got accepted to [ASE'23 NIER](https://conf.researchr.org/track/ase-2023/ase-2023-nier-track?). 
+* [07/07/2023] One paper got accepted to [ASE'23 NIER](https://conf.researchr.org/track/ase-2023/ase-2023-nier-track?). Congrats Aakash!
 
 * [03/19/2023] Invited as a PC member for [MLSys'23 AE](https://mlsys.org/Conferences/2023/CallForAE).
 
