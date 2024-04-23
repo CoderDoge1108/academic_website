@@ -16,7 +16,7 @@ design:
 
 ## 2024
 
-* [04/23/2024] On paper got accepted to [ACM TOSEM](https://dl.acm.org/journal/tosem) with IF of 4.4 (Q1). Congrats Zach!
+* [04/23/2024] On paper got accepted to [TOSEM](https://dl.acm.org/journal/tosem) with IF of 4.4. Congrats Zach!
 
 * [04/09/2024] Invited as a PC member for [CCS'24 AE](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-artifacts.html).
 
@@ -36,7 +36,7 @@ design:
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Examination](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php).
 
-* [09/05/2023] One paper got accepted to [TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) with IF of 11.037 (Q1). Congrats Haoyu!
+* [09/05/2023] One paper got accepted to [TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) with IF of 11.037. Congrats Haoyu!
 
 * [07/13/2023] Invited as a PC member for [AAAI'24](https://aaai.org/Conferences/AAAI-24/).
 
