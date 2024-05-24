@@ -17,8 +17,6 @@ design:
 
 ## 2024
 
-* [05/24/2024] Accepted my GenAI research intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) in Santa Clara, CA, USA.
-
 * [05/24/2024] Invited as a PC member for [NeurIPS'24](https://neurips.cc/).
 
 * [05/02/2024] Started my remote visiting at [Yale University](https://www.yale.edu/) in New Haven, CT, USA.
