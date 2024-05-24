@@ -19,7 +19,7 @@ design:
 
 * [05/24/2024] Invited as a PC member for [NeurIPS'24](https://neurips.cc/).
 
-* [05/02/2024] Started my visiting at [Yale University](https://www.yale.edu/) in New Haven, CT, USA.
+* [05/02/2024] Started my remote visiting at [Yale University](https://www.yale.edu/) in New Haven, CT, USA.
 
 * [04/23/2024] On paper got accepted to [TOSEM](https://dl.acm.org/journal/tosem) with IF of 4.978.
 
