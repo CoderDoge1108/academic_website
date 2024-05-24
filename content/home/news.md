@@ -16,6 +16,10 @@ design:
 
 ## 2024
 
+* [05/24/2024] Invited as a PC member for [NeurIPS'24](https://neurips.cc/).
+
+* [05/02/2023] Started my Visiting Student Researcher at [Yale University](https://www.yale.edu/) virtually in New Haven, CT, USA.
+
 * [04/23/2024] On paper got accepted to [TOSEM](https://dl.acm.org/journal/tosem) with IF of 4.978.
 
 * [04/09/2024] Invited as a PC member for [CCS'24 AE](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-artifacts.html).
@@ -42,11 +46,11 @@ design:
 
 * [07/07/2023] One paper got accepted to [ASE'23 NIER](https://conf.researchr.org/track/ase-2023/ase-2023-nier-track?).
 
+* [05/22/2023] Started my Research Scientist intern at [ByteDance](https://www.bytedance.com/en/) physically in San Jose, CA, USA.
+
 * [03/19/2023] Invited as a PC member for [MLSys'23 AE](https://mlsys.org/Conferences/2023/CallForAE).
 
 * [03/02/2023] One paper got accepted to [InteNSE@ICSE'23](https://intense23.github.io/).
-
-* [03/02/2023] Accepted a RS intern position at [ByteDance](https://www.bytedance.com/en/) in San Jose, CA, USA.
 
 * [02/06/2023] Invited as a PC member for [MICCAI'23](https://conferences.miccai.org/2023/en/).
 
