@@ -102,34 +102,34 @@ experience:
         * Authored Chapter 5 of [Federated Learning: Technologies and Practices](https://www.amazon.cn/dp/B091GWK1Z6).
     
 
-  - title: Data Science Mentor
-    company: Udacity
-    company_url: 'https://www.udacity.com/'
-    company_logo: udacity
-    location: Shanghai, CN
-    date_start: '2018-05-01'
-    date_end: '2019-04-01'
-    description: |2-
-        Institute for Data Science
+  # - title: Data Science Mentor
+  #   company: Udacity
+  #   company_url: 'https://www.udacity.com/'
+  #   company_logo: udacity
+  #   location: Shanghai, CN
+  #   date_start: '2018-05-01'
+  #   date_end: '2019-04-01'
+  #   description: |2-
+  #       Institute for Data Science
         
-        * Taught VIP students Python, statistics, machine learning and data mining
-        * Organized online community activities and created instructional materials
-        * Awarded [Oustanding Mentor](https://www.udacity.com/start-mentoring) of Udacity China (Top 1%)
+  #       * Taught VIP students Python, statistics, machine learning and data mining
+  #       * Organized online community activities and created instructional materials
+  #       * Awarded [Oustanding Mentor](https://www.udacity.com/start-mentoring) of Udacity China (Top 1%)
     
 
-  - title: Undergraduate Exchange Student
-    company: University of Calgary
-    company_url: 'https://www.ucalgary.ca/'
-    company_logo: ucalgary
-    location: Calgary, AB, CA
-    date_start: '2015-12-01'
-    date_end: '2016-05-01'
-    description: |2-
-        Schulich School of Engineering
+  # - title: Undergraduate Exchange Student
+  #   company: University of Calgary
+  #   company_url: 'https://www.ucalgary.ca/'
+  #   company_logo: ucalgary
+  #   location: Calgary, AB, CA
+  #   date_start: '2015-12-01'
+  #   date_end: '2016-05-01'
+  #   description: |2-
+  #       Schulich School of Engineering
         
-        * Fullly funded by Chinese National Fellowship for overseas research
-        * Worked on an undergraduate thesis project in the Reservoir Simulation Group with Professor Keliu Wu.
-        * Collaborated on one paper accepted by [International Journal of Coal Geology](https://www.sciencedirect.com/journal/international-journal-of-coal-geology) (IF: 6.806).
+  #       * Fullly funded by Chinese National Fellowship for overseas research
+  #       * Worked on an undergraduate thesis project in the Reservoir Simulation Group with Professor Keliu Wu.
+  #       * Collaborated on one paper accepted by [International Journal of Coal Geology](https://www.sciencedirect.com/journal/international-journal-of-coal-geology) (IF: 6.806).
 
 design:
   columns: '2'
