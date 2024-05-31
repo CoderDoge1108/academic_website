@@ -25,7 +25,7 @@ experience:
 
   - title: Generative AI Research Intern
     company: Intel Corporation
-    company_url: 'https://www.bytedance.com/en/'
+    company_url: 'https://www.intel.com/content/www/us/en/homepage.html'
     company_logo: intel
     location: Santa Clara, CA, USA
     date_start: '2024-06-10'
@@ -34,6 +34,19 @@ experience:
         Emerging Growth Incubation (EGI)
         
         * Ongoing
+
+  - title: Visiting Student Researcher
+    company: Yale University
+    company_url: 'https://www.yale.edu/'
+    company_logo: yale
+    location: New Haven, CT, USA
+    date_start: '2024-05-02'
+    date_end: 'TBD'
+    description: |2-
+        Rigorous Software Engineering (ROSE) Group, Yale Computer Science
+        
+        * Ongoing
+
 
   - title: Research Scientist Intern
     company: ByteDance
@@ -68,23 +81,23 @@ experience:
     date_start: '2021-07-01'
     date_end: '2022-06-01'
     description: |2-
-        Duke University Health System
+        Duke AI for Radiology (DAIR) Group, Duke University Health System
 
         * Designed a feature interpolation and reconstruction pipeline for injecting tumors into healthy images as an augmented dataset, and conjuncted a ViT on the outputs of a ResNet as inputs to a FPN in Faster R-CNN for tumor detection. The model mitigates the data-hungry problem of attention and achieves 13.1% improvement in AP50 for detecting tumors (accepted by [MICCAI](https://conferences.miccai.org/2022/en/) workshop).
         * Introduced a method for detecting anomalies in high-resolution medical images by sliding patches, and a domain generalization method by imposing constraints on the feature space and its projection space. Both of the two model achieve state-of-the-art in anomaly detection and domain generalization accuracy (submiteed to [MIA](https://www.sciencedirect.com/journal/medical-image-analysis) and [IEEE-TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)).
 
-  # - title: Senior Research Assistant
-  #   company: The University of Hong Kong
-  #   company_url: 'https://www.hku.hk/'
-  #   company_logo: hku
-  #   location: Hong Kong SAR
-  #   date_start: '2021-03-01'
-  #   date_end: '2021-09-01'
-  #   description: |2-
-  #       HKU Business School
+  - title: Senior Research Assistant
+    company: The University of Hong Kong
+    company_url: 'https://www.hku.hk/'
+    company_logo: hku
+    location: Hong Kong SAR
+    date_start: '2021-03-01'
+    date_end: '2021-09-01'
+    description: |2-
+        HKU Business School
         
-  #       * Built an entire intelligent debt collection system using data-driven deep reinforcement learning models. The model utilizes transformer as the feature extractor and attaches a offline policy gradient model trained on the embedded sequential-aware hidden features to propose long-term dependent decisions.
-  #       * Explored the application of GNNs on Finance and converted some of the ideas to a paper for addressing code clone detection (accepted by [ICSE](https://conf.researchr.org/home/icse-2023) workshop).
+        * Built an entire intelligent debt collection system using data-driven deep reinforcement learning models. The model utilizes transformer as the feature extractor and attaches a offline policy gradient model trained on the embedded sequential-aware hidden features to propose long-term dependent decisions.
+        * Explored the application of GNNs on Finance and converted some of the ideas to a paper for addressing code clone detection (accepted by [ICSE](https://conf.researchr.org/home/icse-2023) workshop).
 
   - title: Machine Learning Engineer
     company: JD.COM
@@ -102,34 +115,34 @@ experience:
         * Authored Chapter 5 of [Federated Learning: Technologies and Practices](https://www.amazon.cn/dp/B091GWK1Z6).
     
 
-  # - title: Data Science Mentor
-  #   company: Udacity
-  #   company_url: 'https://www.udacity.com/'
-  #   company_logo: udacity
-  #   location: Shanghai, CN
-  #   date_start: '2018-05-01'
-  #   date_end: '2019-04-01'
-  #   description: |2-
-  #       Institute for Data Science
+  - title: Data Science Mentor
+    company: Udacity
+    company_url: 'https://www.udacity.com/'
+    company_logo: udacity
+    location: Shanghai, CN
+    date_start: '2018-05-01'
+    date_end: '2019-04-01'
+    description: |2-
+        Institute for Data Science
         
-  #       * Taught VIP students Python, statistics, machine learning and data mining
-  #       * Organized online community activities and created instructional materials
-  #       * Awarded [Oustanding Mentor](https://www.udacity.com/start-mentoring) of Udacity China (Top 1%)
+        * Taught VIP students Python, statistics, machine learning and data mining
+        * Organized online community activities and created instructional materials
+        * Awarded [Oustanding Mentor](https://www.udacity.com/start-mentoring) of Udacity China (Top 1%)
     
 
-  # - title: Undergraduate Exchange Student
-  #   company: University of Calgary
-  #   company_url: 'https://www.ucalgary.ca/'
-  #   company_logo: ucalgary
-  #   location: Calgary, AB, CA
-  #   date_start: '2015-12-01'
-  #   date_end: '2016-05-01'
-  #   description: |2-
-  #       Schulich School of Engineering
+  - title: Undergraduate Exchange Student
+    company: University of Calgary
+    company_url: 'https://www.ucalgary.ca/'
+    company_logo: ucalgary
+    location: Calgary, AB, CA
+    date_start: '2015-12-01'
+    date_end: '2016-05-01'
+    description: |2-
+        Schulich School of Engineering
         
-  #       * Fullly funded by Chinese National Fellowship for overseas research
-  #       * Worked on an undergraduate thesis project in the Reservoir Simulation Group with Professor Keliu Wu.
-  #       * Collaborated on one paper accepted by [International Journal of Coal Geology](https://www.sciencedirect.com/journal/international-journal-of-coal-geology) (IF: 6.806).
+        * Fullly funded by Chinese National Fellowship for overseas research
+        * Worked on an undergraduate thesis project in the Reservoir Simulation Group with Professor Keliu Wu.
+        * Collaborated on one paper accepted by [International Journal of Coal Geology](https://www.sciencedirect.com/journal/international-journal-of-coal-geology) (IF: 6.806).
 
 design:
   columns: '2'
