@@ -31,7 +31,7 @@ experience:
     date_start: '2024-06-10'
     date_end: '2024-12-13'
     description: |2-
-        Emerging Growth Incubation (EGI)
+        Emerging Growth Incubation Lab
         
         * Ongoing
 
@@ -43,7 +43,7 @@ experience:
     date_start: '2024-05-02'
     date_end: 'TBD'
     description: |2-
-        Rigorous Software Engineering (ROSE) Group, Yale Computer Science
+        Rigorous Software Engineering Group
         
         * Ongoing
 
@@ -81,7 +81,7 @@ experience:
     date_start: '2021-07-01'
     date_end: '2022-06-01'
     description: |2-
-        Duke AI for Radiology (DAIR) Group, Duke University Health System
+        Duke Center for AI in Radiology
 
         * Designed a feature interpolation and reconstruction pipeline for injecting tumors into healthy images as an augmented dataset, and conjuncted a ViT on the outputs of a ResNet as inputs to a FPN in Faster R-CNN for tumor detection. The model mitigates the data-hungry problem of attention and achieves 13.1% improvement in AP50 for detecting tumors (accepted by [MICCAI](https://conferences.miccai.org/2022/en/) workshop).
         * Introduced a method for detecting anomalies in high-resolution medical images by sliding patches, and a domain generalization method by imposing constraints on the feature space and its projection space. Both of the two model achieve state-of-the-art in anomaly detection and domain generalization accuracy (submiteed to [MIA](https://www.sciencedirect.com/journal/medical-image-analysis) and [IEEE-TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)).
