@@ -35,17 +35,17 @@ experience:
         
         * Ongoing
 
-  - title: Visiting Student Researcher
-    company: Yale University
-    company_url: 'https://www.yale.edu/'
-    company_logo: yale
-    location: New Haven, CT, USA
-    date_start: '2024-05-02'
-    date_end: '2024-05-02'
-    description: |2-
-        Rigorous Software Engineering Group
+  # - title: Visiting Student Researcher
+  #   company: Yale University
+  #   company_url: 'https://www.yale.edu/'
+  #   company_logo: yale
+  #   location: New Haven, CT, USA
+  #   date_start: '2024-05-02'
+  #   date_end: '2024-05-02'
+  #   description: |2-
+  #       Rigorous Software Engineering Group
         
-        * Ongoing
+  #       * Ongoing
 
 
   - title: Research Scientist Intern
