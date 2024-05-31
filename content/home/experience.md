@@ -41,7 +41,7 @@ experience:
     company_logo: yale
     location: New Haven, CT, USA
     date_start: '2024-05-02'
-    date_end: '2024-05-02'
+    date_end: '2024-05-03'
     description: |2-
         Rigorous Software Engineering Group
         
