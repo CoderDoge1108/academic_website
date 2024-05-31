@@ -58,7 +58,9 @@ experience:
     description: |2-
         Infrastructure Systems Lab
         
-        * Enhancing the SQL pipeline using a hint recommendation system based on representation learning. This is an ongoing project by the time of completing this item.
+        * Enhancing the SQL pipeline with a hint recommendation system based on representation learning.
+        * Optimizing data processing efficiency and query performance.
+        * This is an ongoing project expected to complete by the end of this year.
 
   # - title: Graduate Research Assistant
   #   company: Vanderbilt University
@@ -83,8 +85,9 @@ experience:
     description: |2-
         Duke Center for AI in Radiology
 
-        * Designed a feature interpolation and reconstruction pipeline for injecting tumors into healthy images as an augmented dataset, and conjuncted a ViT on the outputs of a ResNet as inputs to a FPN in Faster R-CNN for tumor detection. The model mitigates the data-hungry problem of attention and achieves 13.1% improvement in AP50 for detecting tumors (accepted by [MICCAI](https://conferences.miccai.org/2022/en/) workshop).
-        * Introduced a method for detecting anomalies in high-resolution medical images by sliding patches, and a domain generalization method by imposing constraints on the feature space and its projection space. Both of the two model achieve state-of-the-art in anomaly detection and domain generalization accuracy (submiteed to [MIA](https://www.sciencedirect.com/journal/medical-image-analysis) and [IEEE-TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)).
+        * Designed a pipeline for tumor detection using ViT and ResNet, achieving a 13.1% improvement in AP50.
+        * Introduced anomaly detection methods for high-resolution medical images with domain generalization.
+        * Both methods achieved state-of-the-art results, with work accepted by [MICCAIW'22](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_5) and [IEEE-TMI](https://ieeexplore.ieee.org/abstract/document/10247020/).
 
   - title: Senior Research Assistant
     company: The University of Hong Kong
@@ -96,8 +99,9 @@ experience:
     description: |2-
         HKU Business School
         
-        * Built an entire intelligent debt collection system using data-driven deep reinforcement learning models. The model utilizes transformer as the feature extractor and attaches a offline policy gradient model trained on the embedded sequential-aware hidden features to propose long-term dependent decisions.
-        * Explored the application of GNNs on Finance and converted some of the ideas to a paper for addressing code clone detection (accepted by [ICSE](https://conf.researchr.org/home/icse-2023) workshop).
+        * Developed an intelligent debt collection system using data-driven deep reinforcement learning.
+        * Utilized transformers and policy gradient models for long-term decision making.
+        * Explored GNN applications for finance, leading to a paper on code clone detection accepted by [ICSEW'23](https://arxiv.org/abs/2208.08067).
 
   - title: Machine Learning Engineer
     company: JD.COM
@@ -109,9 +113,9 @@ experience:
     description: |2-
         Intelligent Risk Management Lab, JD Technology
         
-        * Built Bi-GRU and DeepFM models on user behavior features to predict the credit use rate and overall profit of every user in cash loan and consumer debt. The model can propose decisions to increase their credit limit for maximizing income, and achieved 21.4% overall profit increase.
-        * Built a heterogeneous graph on different types of user connections, and applied GNN models to propagate the credit score. The model can improve the overall accuracy of the XGB model by 5% in user classification.
-        * Invented one kind of GAN-styled model using differential privacy to improve the efficiency and security of federated learning. Applied for 10 CN patents based on the research outputs, and was listed as 1st or 2nd inventor in 8 of them. One of the patents was awarded as 1st Runner-up in the 3rd [JD Discovery Cup Patent Competition](https://blog.csdn.net/JDDTechTalk/article/details/109615799) (Top 0.1%).
+        * Developed Bi-GRU and DeepFM models for predicting credit use rate and profit, achieving a 21.4% increase.
+        * Built a heterogeneous graph and GNN models to improve credit score classification by 5%.
+        * Invented a GAN-styled model with differential privacy, leading to 10 CN patents, and awarded in the [JD Discovery Cup Patent Competition](https://blog.csdn.net/JDDTechTalk/article/details/109615799) (Top 0.1%).
         * Authored Chapter 5 of [Federated Learning: Technologies and Practices](https://www.amazon.cn/dp/B091GWK1Z6).
     
 
@@ -141,8 +145,8 @@ experience:
         Schulich School of Engineering
         
         * Fullly funded by Chinese National Fellowship for overseas research
-        * Worked on an undergraduate thesis project in the Reservoir Simulation Group with Professor Keliu Wu.
-        * Collaborated on one paper accepted by [International Journal of Coal Geology](https://www.sciencedirect.com/journal/international-journal-of-coal-geology) (IF: 6.806).
+        * Conducted undergraduate thesis research in the Reservoir Simulation Group under Professor Keliu Wu.
+        * Co-authored a paper accepted by the [International Journal of Coal Geology](https://www.sciencedirect.com/science/article/abs/pii/S0166516217300435) (IF: 6.806).
 
 design:
   columns: '2'
