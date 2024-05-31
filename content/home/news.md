@@ -17,6 +17,8 @@ design:
 
 ## 2024
 
+* [05/30/2024] Invited as a PC member for [DMLR@ICML'24](https://dmlr.ai/).
+
 * [05/24/2024] Invited as a PC member for [NeurIPS'24](https://neurips.cc/).
 
 * [05/02/2024] Started my remote visiting at [Yale University](https://www.yale.edu/) in New Haven, CT, USA.

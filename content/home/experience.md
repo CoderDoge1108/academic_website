@@ -31,7 +31,7 @@ experience:
     date_start: '2024-06-10'
     date_end: '2024-12-13'
     description: |2-
-        Emerging Growth Incubation Lab
+        Emerging Growth Incubation Group
         
         * Ongoing
 
