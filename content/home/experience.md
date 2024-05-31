@@ -116,9 +116,7 @@ experience:
         * Developed DeepFM models for predicting credit use rate and profit, achieving a 21.4% increase.
         * Built a heterogeneous graph and GNN models to improve credit score classification by 5%.
         * Invented a GAN-styled model with differential privacy, leading to 10 CN patents, and awarded in the [JD Discovery Cup Patent Competition](https://blog.csdn.net/JDDTechTalk/article/details/109615799) (Top 0.1%).
-        * Authored Chapter 5 of [Federated Learning: Technologies and Practices](https://www.amazon.cn/dp/B091GWK1Z6).
     
-
   - title: Data Science Mentor
     company: Udacity
     company_url: 'https://www.udacity.com/'
