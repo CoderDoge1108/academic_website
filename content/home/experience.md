@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Generative AI Research Intern
+    company: Intel Corporation
+    company_url: 'https://www.bytedance.com/en/'
+    company_logo: intel
+    location: Santa Clara, CA, USA
+    date_start: '2024-06-10'
+    date_end: '2024-12-13'
+    description: |2-
+        Emerging Growth Incubation (EGI)
+        
+        * Ongoing
+
   - title: Research Scientist Intern
     company: ByteDance
     company_url: 'https://www.bytedance.com/en/'
@@ -60,18 +73,18 @@ experience:
         * Designed a feature interpolation and reconstruction pipeline for injecting tumors into healthy images as an augmented dataset, and conjuncted a ViT on the outputs of a ResNet as inputs to a FPN in Faster R-CNN for tumor detection. The model mitigates the data-hungry problem of attention and achieves 13.1% improvement in AP50 for detecting tumors (accepted by [MICCAI](https://conferences.miccai.org/2022/en/) workshop).
         * Introduced a method for detecting anomalies in high-resolution medical images by sliding patches, and a domain generalization method by imposing constraints on the feature space and its projection space. Both of the two model achieve state-of-the-art in anomaly detection and domain generalization accuracy (submiteed to [MIA](https://www.sciencedirect.com/journal/medical-image-analysis) and [IEEE-TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)).
 
-  - title: Senior Research Assistant
-    company: The University of Hong Kong
-    company_url: 'https://www.hku.hk/'
-    company_logo: hku
-    location: Hong Kong SAR
-    date_start: '2021-03-01'
-    date_end: '2021-09-01'
-    description: |2-
-        HKU Business School
+  # - title: Senior Research Assistant
+  #   company: The University of Hong Kong
+  #   company_url: 'https://www.hku.hk/'
+  #   company_logo: hku
+  #   location: Hong Kong SAR
+  #   date_start: '2021-03-01'
+  #   date_end: '2021-09-01'
+  #   description: |2-
+  #       HKU Business School
         
-        * Built an entire intelligent debt collection system using data-driven deep reinforcement learning models. The model utilizes transformer as the feature extractor and attaches a offline policy gradient model trained on the embedded sequential-aware hidden features to propose long-term dependent decisions.
-        * Explored the application of GNNs on Finance and converted some of the ideas to a paper for addressing code clone detection (accepted by [ICSE](https://conf.researchr.org/home/icse-2023) workshop).
+  #       * Built an entire intelligent debt collection system using data-driven deep reinforcement learning models. The model utilizes transformer as the feature extractor and attaches a offline policy gradient model trained on the embedded sequential-aware hidden features to propose long-term dependent decisions.
+  #       * Explored the application of GNNs on Finance and converted some of the ideas to a paper for addressing code clone detection (accepted by [ICSE](https://conf.researchr.org/home/icse-2023) workshop).
 
   - title: Machine Learning Engineer
     company: JD.COM
