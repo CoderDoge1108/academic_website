@@ -85,7 +85,7 @@ experience:
     description: |2-
         Duke Center for AI in Radiology
 
-        * Designed a pipeline for tumor detection using ViT and ResNet, achieving a 13.1% improvement in AP50.
+        * Designed a pipeline for tumor detection using ViT and FPN, achieving a 13.1% improvement in AP50.
         * Introduced anomaly detection methods for high-resolution medical images with domain generalization.
         * Both methods achieved state-of-the-art results, with work accepted by [MICCAIW'22](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_5) and [IEEE-TMI](https://ieeexplore.ieee.org/abstract/document/10247020/).
 
