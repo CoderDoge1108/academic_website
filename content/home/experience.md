@@ -132,19 +132,19 @@ experience:
         * Awarded [Oustanding Mentor](https://www.udacity.com/start-mentoring) of Udacity China (Top 1%)
     
 
-  - title: Undergraduate Exchange Student
-    company: University of Calgary
-    company_url: 'https://www.ucalgary.ca/'
-    company_logo: ucalgary
-    location: Calgary, AB, CA
-    date_start: '2015-12-01'
-    date_end: '2016-05-01'
-    description: |2-
-        Schulich School of Engineering
+  # - title: Undergraduate Exchange Student
+  #   company: University of Calgary
+  #   company_url: 'https://www.ucalgary.ca/'
+  #   company_logo: ucalgary
+  #   location: Calgary, AB, CA
+  #   date_start: '2015-12-01'
+  #   date_end: '2016-05-01'
+  #   description: |2-
+  #       Schulich School of Engineering
         
-        * Fullly funded by Chinese National Fellowship for overseas research
-        * Conducted undergraduate thesis research in the Reservoir Simulation Group under Professor Keliu Wu.
-        * Co-authored a paper accepted by the [IJCG](https://www.sciencedirect.com/science/article/abs/pii/S0166516217300435).
+  #       * Fullly funded by Chinese National Fellowship for overseas research
+  #       * Conducted undergraduate thesis research in the Reservoir Simulation Group under Professor Keliu Wu.
+  #       * Co-authored a paper accepted by the [IJCG](https://www.sciencedirect.com/science/article/abs/pii/S0166516217300435).
 
 design:
   columns: '2'
