@@ -17,7 +17,7 @@ design:
 
 ## 2024
 
-* [07/15/2024] Attended [FSE'24](https://conf.researchr.org/home/fse-2024) physically in Porto de Galinhas, PE, BRA and presented one paper.
+* [07/15/2024] Attended [FSE'24](https://conf.researchr.org/home/fse-2024) in Porto de Galinhas, PE, Brazil.
 
 * [06/10/2024] Started my GenAI Intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) in Santa Clara, CA, USA.
 
@@ -69,11 +69,11 @@ design:
 
 * [12/04/2022] Invited as a Junior PC member for [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers).
 
-* [11/28/2022] Attended [NeurIPS'22](https://nips.cc/) physically in New Orleans, LA, USA.
+* [11/28/2022] Attended [NeurIPS'22](https://nips.cc/) in New Orleans, LA, USA.
 
-* [10/10/2022] Attended [ASE'22](https://conf.researchr.org/home/ase-2022) physically in Detroit, MI, USA and presented one paper.
+* [10/10/2022] Attended [ASE'22](https://conf.researchr.org/home/ase-2022) in Detroit, MI, USA.
 
-* [09/22/2022] Attended [MICCAI'22](https://conferences.miccai.org/2022/en/) virtually in Singapore and presented one paper.
+* [09/22/2022] Attended [MICCAI'22](https://conferences.miccai.org/2022/en/) virtually in Singapore.
 
 * [08/05/2022] One paper got accepted to [ASE'22 DS](https://conf.researchr.org/track/ase-2022/ase-2022-doctoral-symposium?).
 
