@@ -17,6 +17,8 @@ design:
 
 ## 2024
 
+* [07/15/2024] Attended [FSE'24](https://conf.researchr.org/home/fse-2024) physically in Porto de Galinhas, PE, BRA and presented one paper.
+
 * [06/10/2024] Started my GenAI Intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) in Santa Clara, CA, USA.
 
 * [06/02/2024] Invited as a PC member for [NeurIPS'24 D&B](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks).
