@@ -17,6 +17,8 @@ design:
 
 ## 2024
 
+* [08/23/2024] Invited as a PC member for [ICLR'25](https://iclr.cc/Conferences/2025).
+
 * [07/15/2024] Attended [FSE'24](https://conf.researchr.org/home/fse-2024) in Porto de Galinhas, PE, Brazil.
 
 * [06/10/2024] Started my GenAI Intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) in Santa Clara, CA, USA.
@@ -25,7 +27,7 @@ design:
 
 * [05/30/2024] Invited as a PC member for [DMLR@ICML'24](https://dmlr.ai/).
 
-* [05/24/2024] Invited as a PC member for [NeurIPS'24](https://neurips.cc/).
+* [05/24/2024] Invited as a PC member for [NeurIPS'24](https://neurips.cc/Conferences/2024).
 
 * [05/02/2024] Started my remote visiting at [Yale University](https://www.yale.edu/) in New Haven, CT, USA.
 
