@@ -7,8 +7,10 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-# weight: 40
-weight: -1
+weight: 40
+
+# Activate or deactivate this widget
+active: false
 
 title: Publications
 subtitle: ''
