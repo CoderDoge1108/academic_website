@@ -13,6 +13,7 @@ design:
 
 # * [04/13/2023] One paper got accepted to [AIM 2023](https://aim2023.org/) focused section.
 # * [06/10/2024] (Incoming) Started my GenAI research intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) in Santa Clara, CA, USA.
+# * [05/02/2024] Started my remote visiting at [Yale University](https://www.yale.edu/) in New Haven, CT, USA.
 ---
 
 ## 2024
@@ -28,8 +29,6 @@ design:
 * [05/30/2024] Invited as a PC member for [DMLR@ICML'24](https://dmlr.ai/).
 
 * [05/24/2024] Invited as a PC member for [NeurIPS'24](https://neurips.cc/Conferences/2024).
-
-* [05/02/2024] Started my remote visiting at [Yale University](https://www.yale.edu/) in New Haven, CT, USA.
 
 * [04/23/2024] On paper got accepted to [TOSEM](https://dl.acm.org/journal/tosem) with IF of 4.978.
 
