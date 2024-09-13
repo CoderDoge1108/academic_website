@@ -31,21 +31,23 @@ experience:
     date_start: '2024-06-10'
     date_end: '2024-12-13'
     description: |2-
-        Emerging Growth Incubation Group
-        
-        * Ongoing
+        Incubation and Disruptive Innovation (IDI) Group
 
-  - title: Visiting Student Researcher
-    company: Yale University
-    company_url: 'https://www.yale.edu/'
-    company_logo: yale
-    location: New Haven, CT, USA
-    date_start: '2024-05-02'
-    date_end: '2024-05-03'
-    description: |2-
-        Rigorous Software Engineering Group
+        * Automated and enhanced construction scheduling for semiconductor projects using LLM-based systems.
+        * Integrated rule-based knowledge and in-context learning, improving efficiency by 2.8x compared to GPT-4o.
+        * Designed a novel DPO pipeline for better alignment of context and preference in construction automation.
+
+  # - title: Visiting Student Researcher
+  #   company: Yale University
+  #   company_url: 'https://www.yale.edu/'
+  #   company_logo: yale
+  #   location: New Haven, CT, USA
+  #   date_start: '2024-05-02'
+  #   date_end: '2024-05-03'
+  #   description: |2-
+  #       Rigorous Software Engineering Group
         
-        * Ongoing
+  #       * Ongoing
 
 
   - title: Research Scientist Intern
