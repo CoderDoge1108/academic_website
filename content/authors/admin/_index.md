@@ -22,11 +22,11 @@ bio: Yifan is a researcher focusing on AI for software engineering, graph neural
 
 # Interests to show in About widget
 interests:
-  - Neural-Symbolic AI
-  - Data-Centric AI
-  - Programming Languages
-  - Software Engineering
-  - Compiler
+  - AI for Programming Languages (AI4Code)
+  - Code Representation Learning
+  - Cognitive Process in Software Engineering
+  - Binary Code analysis
+  - Medical Imaging
 
 # Education to show in About widget
 education:
@@ -91,6 +91,4 @@ email: ''
 highlight_name: true
 ---
 
-Yifan Zhang (中文: 张一凡, 日本語: チャン・イーファン, Русский: Ифань Чжан) is a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang at the Institute for Software Integrated Systems (VU-ISIS). He is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [China University of Petroleum (CUP)](https://www.cup.edu.cn/english/) at Beijing and printed his first "Hello, World!" in Python in 2017.
-
-After earning his degrees, he worked as a machine learning engineer at the Intelligent Risk Management Lab at [JD.COM](https://corporate.jd.com/home) and gained further experience as a research intern at the Innovation and Disruptive Incubation Group at [Intel](https://www.intel.com/content/www/us/en/homepage.html) and Infrastructure Systems Lab at [TikTok/ByteDance](https://www.bytedance.com/en/). He also served as a research associate at the [University of Hong Kong (HKU)](https://www.hku.hk/) and [Duke University](https://duke.edu/). His research focuses on neural-symbolic programming, data-centric AI, programming languages, software engineering, and compilers.
+Yifan Zhang (中文: 张一凡, 日本語: チャン・イーファン, Русский: Ифань Чжан) is a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang at the Institute for Software Integrated Systems (ISIS). He is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [China University of Petroleum (CUP)](https://www.cup.edu.cn/english/) at Beijing and worked as a machine learning engineer at the Intelligent Risk Management Lab at [JD.COM](https://corporate.jd.com/home). He has also worked as a research associate at the [University of Hong Kong (HKU)](https://www.hku.hk/) and [Duke University (Duke)](https://duke.edu/). His research interests lie in AI for programming languages (AI4Code), code representation learning, cognitive process in software engineering, binary code analysis, and medical imaging.
