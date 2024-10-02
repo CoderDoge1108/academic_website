@@ -22,10 +22,9 @@ bio: Yifan is a researcher focusing on AI for software engineering, graph neural
 
 # Interests to show in About widget
 interests:
-  - Neural-Symbolic AI 
-  - Data-Centric AI
+  - Neural-Symbolic AI for Software Engineering
+  - Data-Centric AI for Systems
   - Programming Languages
-  - Software Engineering
   - Compiler
 
 # Education to show in About widget
@@ -91,4 +90,4 @@ email: ''
 highlight_name: true
 ---
 
-Yifan Zhang (中文: 张一凡, 日本語: チャン・イーファン, Русский: Ифань Чжан) is a Ph.D. student in Computer Science at [Vanderbilt](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang at [VU-ISIS](https://www.isis.vanderbilt.edu/). He is also jointly pursuing the OMSCS at [GaTech](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [CUP](https://www.cup.edu.cn/english/) at Beijing and worked as a MLE at [JD.com](https://corporate.jd.com/home). He has also worked as research intern at [Intel](https://www.intel.com/content/www/us/en/homepage.html) and [TikTok](https://www.bytedance.com/en/), and RA at [HKU](https://www.hku.hk/) and [Duke](https://duke.edu/). His research interests lie in neural-symbolic programming, data-centric AI, programming languages, software engineering, and compiler.
+Yifan Zhang (中文: 张一凡, 日本語: チャン・イーファン, Русский: Ифань Чжан) is a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), under the supervision of Prof. Kevin J. Leach and Prof. Yu Huang at the Institute for Software Integrated Systems (ISIS). He is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Before joining Vanderbilt & GaTech, he earned his B.A., B.Eng., and M.Eng. from [China University of Petroleum (CUP)](https://www.cup.edu.cn/english/) at Beijing and worked as a machine learning engineer at the Intelligent Risk Management Lab at [JD.COM](https://corporate.jd.com/home). He has also worked as research intern at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html) and [TikTok/ByteDance](https://www.bytedance.com/en/), and research associate at the [University of Hong Kong (HKU)](https://www.hku.hk/) and [Duke University (Duke)](https://duke.edu/). His research interests lie in neural-symbolic programming, data-centric AI, programming languages, software engineering, and compiler.
