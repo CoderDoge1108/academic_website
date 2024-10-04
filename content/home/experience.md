@@ -61,7 +61,7 @@ experience:
         Infrastructure Systems Lab
         
         * Implementing a hint recommendation system by applying representation learning on SQL execution trees.
-        * Optimizing query performance by transforming SQL source code into execution trees and learning patterns.
+        * Optimizing query performance by identifying patterns in execution trees and reranking SQL hints.
         * Enhancing data processing efficiency based on insights from execution tree representation.
 
   # - title: Graduate Research Assistant
