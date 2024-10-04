@@ -60,9 +60,9 @@ experience:
     description: |2-
         Infrastructure Systems Lab
         
-        * Enhancing the SQL pipeline with a hint recommendation system based on representation learning.
-        * Optimizing data processing efficiency and query performance.
-        * This is an ongoing project expected to complete by the end of this year.
+        * Implementing a hint recommendation system by applying representation learning on SQL execution trees.
+        * Optimizing query performance by transforming SQL source code into execution trees and learning patterns.
+        * Enhancing data processing efficiency based on insights from execution tree representation.
 
   # - title: Graduate Research Assistant
   #   company: Vanderbilt University
