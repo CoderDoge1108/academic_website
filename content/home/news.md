@@ -18,7 +18,7 @@ design:
 
 ## 2024
 
-* [10/15/2024] One paper got accepted to [TMech](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516).
+* [10/15/2024] One paper got accepted to [TMech](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516) with IF of 6.38.
 
 * [08/23/2024] Invited as a PC member for [ICLR'25](https://iclr.cc/Conferences/2025).
 
