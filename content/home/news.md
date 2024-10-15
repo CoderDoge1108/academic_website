@@ -18,6 +18,8 @@ design:
 
 ## 2024
 
+* [10/15/2024] One paper got accepted to [TMech](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516).
+
 * [08/23/2024] Invited as a PC member for [ICLR'25](https://iclr.cc/Conferences/2025).
 
 * [07/15/2024] Attended [FSE'24](https://conf.researchr.org/home/fse-2024) in Porto de Galinhas, PE, Brazil.
