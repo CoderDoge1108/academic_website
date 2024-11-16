@@ -65,7 +65,7 @@ item:
     description: 'Fellowship for undergraduate students in overseas study (CA$6000/4 months)'
   - organization: China University of Petroleum, Beijing
     date_start: '2015-06-01'
-    title: Dean's List for the Best Undergraduate Students
+    title: Summa Cum Laude for the Best Undergraduate Students
     description: 'Student award for the best undergraduates (Top 4 university-wide)'
   - organization: Schlumberger
     date_start: '2014-10-01'
