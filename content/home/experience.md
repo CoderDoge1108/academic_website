@@ -33,7 +33,9 @@ experience:
     description: |2-
         AI Reasoning Group
 
-        * TBD
+        * Planned to assist in research exploring AI techniques for solving complex problems.
+        * Expected to contribute to the development and evaluation of innovative solutions in AI.
+        * Will support the team in designing and testing scalable systems for practical applications.
 
   - title: Student Researcher
     company: Google Research
@@ -45,7 +47,9 @@ experience:
     description: |2-
         Compiler and Learning Theory Group
 
-        * TBD
+        * Planned to participate in research projects focused on advancing AI and systems optimization.
+        * Expected to explore methods to improve the performance and applicability of cutting-edge tools.
+        * Will collaborate with the team to analyze and enhance existing frameworks.
 
   - title: GenAI Research Intern
     company: Intel Corporation
