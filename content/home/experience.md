@@ -23,7 +23,31 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Generative AI Research Intern
+  - title: Research Intern
+    company: IBM T.J. Watson Research
+    company_url: 'https://research.ibm.com/labs/yorktown-heights'
+    company_logo: ibm
+    location: Yorktown Heights, NY, USA
+    date_start: '2025-05-19'
+    date_end: '2025-08-08'
+    description: |2-
+        AI Reasoning Group
+
+        * TBD
+
+  - title: Student Researcher
+    company: Google Research
+    company_url: 'https://research.google/'
+    company_logo: google
+    location: Sunnyvale, CA, USA
+    date_start: '2025-01-13'
+    date_end: '2025-04-04'
+    description: |2-
+        Compiler and Learning Theory Group
+
+        * TBD
+
+  - title: GenAI Research Intern
     company: Intel Corporation
     company_url: 'https://www.intel.com/content/www/us/en/homepage.html'
     company_logo: intel
