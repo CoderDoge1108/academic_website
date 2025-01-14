@@ -49,7 +49,7 @@ experience:
 
         * Planned to participate in research projects focused on advancing AI and systems optimization.
         * Expected to explore methods to improve the performance and applicability of cutting-edge tools.
-        * Will collaborate with the team to analyze and enhance existing frameworks.
+        *Will collaborate with the team to analyze and enhance existing frameworks.
 
   - title: GenAI Research Intern
     company: Intel Corporation

@@ -16,6 +16,12 @@ design:
 # * [05/02/2024] Started my remote visiting at [Yale University](https://www.yale.edu/) in New Haven, CT, USA.
 ---
 
+## 2025
+
+* [01/13/2025] Started my Student Researcher at [Google Research](https://research.google/).
+
+* [01/12/2025] One paper got accepted to [ICPC'25 ERA](https://conf.researchr.org/track/icpc-2025/icpc-2025-early-research-achievements-era).
+
 ## 2024
 
 * [12/11/2024] Invited as a PC member for [ICML'25](https://icml.cc/).
