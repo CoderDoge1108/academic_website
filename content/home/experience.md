@@ -26,7 +26,7 @@ experience:
   - title: Research Intern
     company: IBM T.J. Watson Research
     company_url: 'https://research.ibm.com/labs/yorktown-heights'
-    company_logo: ibm
+    company_logo: ibm-classic
     location: Yorktown Heights, NY, USA
     date_start: '2025-05-19'
     date_end: '2025-08-08'
@@ -54,7 +54,7 @@ experience:
   - title: GenAI Research Intern
     company: Intel Corporation
     company_url: 'https://www.intel.com/content/www/us/en/homepage.html'
-    company_logo: intel
+    company_logo: intel-classic
     location: Santa Clara, CA, USA
     date_start: '2024-06-10'
     date_end: '2024-12-13'
