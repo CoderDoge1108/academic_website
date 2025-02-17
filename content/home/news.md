@@ -18,7 +18,7 @@ design:
 
 ## 2025
 
-* [12/11/2024] Invited as a PC member for [NeurIPS'25](https://neurips.cc/).
+* [02/17/2025] Invited as a PC member for [NeurIPS'25](https://neurips.cc/).
 
 * [02/13/2025] One paper got accepted to [NAACL'25 Industry](https://2025.naacl.org/calls/industry/).
 
