@@ -18,9 +18,11 @@ design:
 
 ## 2025
 
+* [12/11/2024] Invited as a PC member for [NeurIPS'25](https://neurips.cc/).
+
 * [02/13/2025] One paper got accepted to [NAACL'25 Industry](https://2025.naacl.org/calls/industry/).
 
-* [01/13/2025] Started my Student Researcher at [Google Research](https://research.google/) in Sunnyvale, CA, USA.
+* [01/13/2025] Started my Student Researcher at [Google LLC](https://about.google/google-in-america/) in Sunnyvale, CA, USA.
 
 * [01/12/2025] One paper got accepted to [ICPC'25 ERA](https://conf.researchr.org/track/icpc-2025/icpc-2025-early-research-achievements-era).
 

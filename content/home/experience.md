@@ -31,25 +31,25 @@ experience:
     date_start: '2025-05-19'
     date_end: '2025-08-08'
     description: |2-
-        AI Reasoning Group
+        AI Reasoning Group, Neuro-symbolic AI
 
-        * Planned to assist in research exploring AI techniques for solving complex problems.
+        * Planned to assist in research exploring AI techniques for solving LLM Reasoning problems.
         * Expected to contribute to the development and evaluation of innovative solutions in AI.
         * Will support the team in designing and testing scalable systems for practical applications.
 
   - title: Student Researcher
-    company: Google Research
-    company_url: 'https://research.google/'
+    company: Google LLC
+    company_url: 'https://about.google/google-in-america/'
     company_logo: google
     location: Sunnyvale, CA, USA
     date_start: '2025-01-13'
     date_end: '2025-04-04'
     description: |2-
-        Compiler and Learning Theory Group
+        Google CORE Developer Group, Foundation Software Engineering
 
-        * Planned to participate in research projects focused on advancing AI and systems optimization.
+        * Planned to participate in research projects focused on advancing ML Compiler Optimization.
         * Expected to explore methods to improve the performance and applicability of cutting-edge tools.
-        *Will collaborate with the team to analyze and enhance existing frameworks.
+        * Will collaborate with the team to analyze and enhance existing frameworks.
 
   - title: GenAI Research Intern
     company: Intel Corporation
@@ -59,7 +59,7 @@ experience:
     date_start: '2024-06-10'
     date_end: '2024-12-13'
     description: |2-
-        Incubation and Disruptive Innovation (IDI) Group
+        Incubation and Disruptive Innovation (IDI) Group, Intel Silicon Valley
 
         * Automated and enhanced construction scheduling for semiconductor projects using LLM-based systems.
         * Integrated rule-based knowledge and in-context learning, improving efficiency by 2.8x compared to GPT-4o.
@@ -86,7 +86,7 @@ experience:
     date_start: '2023-05-22'
     date_end: '2023-08-11'
     description: |2-
-        Infrastructure Systems Lab
+        Infrastructure Systems Lab, TikTok Applied Research Center
         
         * Implementing a hint recommendation system by applying representation learning on SQL execution trees.
         * Optimizing query performance by identifying patterns in execution trees and reranking SQL hints.
@@ -113,7 +113,7 @@ experience:
     date_start: '2021-07-01'
     date_end: '2022-06-01'
     description: |2-
-        Duke Center for AI in Radiology
+        Duke Center for AI in Radiology, Duke University Medical Center
 
         * Designed a pipeline for tumor detection using ViT and FPN, achieving a 13.1% improvement in AP50.
         * Introduced anomaly detection methods for high-resolution medical images with domain generalization.
@@ -155,7 +155,7 @@ experience:
     date_start: '2018-05-01'
     date_end: '2019-04-01'
     description: |2-
-        Institute for Data Science
+        Institute for Data Science, Udacity China
         
         * Taught VIP students Python, statistics, machine learning and data mining
         * Organized online community activities and created instructional materials
