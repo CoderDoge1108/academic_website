@@ -18,6 +18,8 @@ design:
 
 ## 2025
 
+* [02/19/2025] One paper got accepted to [HotSoS'25 WIP](https://sos-vo.org/group/hotsos/cfp) with AR of 31.58%.
+
 * [02/17/2025] Invited as a PC member for [NeurIPS'25](https://neurips.cc/).
 
 * [02/13/2025] One paper got accepted to [NAACL'25 Industry](https://2025.naacl.org/calls/industry/).
