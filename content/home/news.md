@@ -18,6 +18,8 @@ design:
 
 ## 2025
 
+* [03/13/2025] Invited as a PC member for [ACL'25 Industry](https://2025.aclweb.org/calls/industry_track/).
+
 * [03/12/2025] One paper got accepted to [FSE'25 IVR](https://conf.researchr.org/track/fse-2025/fse-2025-ideas-visions-and-reflections).
 
 * [02/19/2025] One paper got accepted to [HotSoS'25 WIP](https://sos-vo.org/group/hotsos/cfp) hosted by NSA.
