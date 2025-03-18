@@ -25,8 +25,9 @@ interests:
   - Neural-Symbolic AI for Programming Languages/Software Engineering
   - Data-Centric AI for Systems
   - Large Language Models
+  - LLVM IR/Binary Code Analysis
   - Compiler Optimization
-  - Applied Machine Learning
+  - Applied NLP/ML
 
 # Education to show in About widget
 education:
