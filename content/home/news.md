@@ -18,7 +18,7 @@ design:
 
 ## 2025
 
-* [03/12/2025] One paper got accepted to [EuroS&P'25](https://eurosp2025.ieee-security.org/cfp.html) with apx. AR of 17.6%.
+* [03/31/2025] One paper got accepted to [EuroS&P'25](https://eurosp2025.ieee-security.org/cfp.html) with apx. AR of 17.6%.
 
 * [03/13/2025] Invited as a PC member for [ACL'25 Industry](https://2025.aclweb.org/calls/industry_track/).
 
