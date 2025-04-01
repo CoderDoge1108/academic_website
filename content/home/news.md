@@ -18,7 +18,7 @@ design:
 
 ## 2025
 
-* [03/12/2025] One paper got accepted to [EuroS&P'25](https://eurosp2025.ieee-security.org/cfp.html) with apx. AR of 17.8%.
+* [03/12/2025] One paper got accepted to [EuroS&P'25](https://eurosp2025.ieee-security.org/cfp.html).
 
 * [03/13/2025] Invited as a PC member for [ACL'25 Industry](https://2025.aclweb.org/calls/industry_track/).
 
@@ -28,7 +28,7 @@ design:
 
 * [02/17/2025] Invited as a PC member for [NeurIPS'25](https://neurips.cc/).
 
-* [02/13/2025] One paper got accepted to [NAACL'25 Industry](https://2025.naacl.org/calls/industry/) with apx. AR of 23.2%.
+* [02/13/2025] One paper got accepted to [NAACL'25 Industry](https://2025.naacl.org/calls/industry/).
 
 * [01/13/2025] Started my Student Researcher at [Google LLC](https://about.google/google-in-america/) in Sunnyvale, CA, USA.
 
