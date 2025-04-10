@@ -18,6 +18,8 @@ design:
 
 ## 2025
 
+* [04/09/2025] Received ACM SIGSOFT [CAPS](https://www2.sigsoft.org/caps/capsmain/) Travel Grant for FSE'25.
+
 * [03/31/2025] One paper got accepted to [EuroS&P'25](https://eurosp2025.ieee-security.org/cfp.html) with AR of 20%.
 
 * [03/13/2025] Invited as a PC member for [ACL'25 Industry](https://2025.aclweb.org/calls/industry_track/).
