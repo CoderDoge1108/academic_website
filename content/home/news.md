@@ -18,7 +18,7 @@ design:
 
 ## 2025
 
-* [04/09/2025] Received ACM SIGSOFT [CAPS](https://www2.sigsoft.org/caps/capsmain/) Travel Grant for FSE'25.
+* [04/09/2025] Received ACM SIGSOFT [CAPS](https://www2.sigsoft.org/caps/capsmain/) Travel Grant for FSE'25/ISSTA'25.
 
 * [03/31/2025] One paper got accepted to [EuroS&P'25](https://eurosp2025.ieee-security.org/cfp.html) with AR of 20%.
 
