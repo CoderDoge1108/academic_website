@@ -18,6 +18,8 @@ design:
 
 ## 2025
 
+* [04/14/2025] One paper got accepted to [MLSys'25 YPS](https://mlsys.org/Conferences/2025/YPS).
+
 * [04/09/2025] Received ACM SIGSOFT [CAPS](https://www2.sigsoft.org/caps/capsmain/) Travel Grant for FSE'25/ISSTA'25.
 
 * [04/01/2025] Attended [HotSoS'25](https://sos-vo.org/group/hotsos) virtually hosted by NSA.
