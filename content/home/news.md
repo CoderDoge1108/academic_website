@@ -18,7 +18,7 @@ design:
 
 ## 2025
 
-* [04/09/2025] Received the [C.F. Chen Best Paper Award](https://engineering.vanderbilt.edu/departments/computer-science/graduate/award-opportunities/#:~:text=The%20C.%20F.,and%20translational%20research%20in%20medicine.) from Vanderbilt University.
+* [05/06/2025] Received the [C.F. Chen Best Paper Award](https://engineering.vanderbilt.edu/departments/computer-science/graduate/award-opportunities/#:~:text=The%20C.%20F.,and%20translational%20research%20in%20medicine.) from Vanderbilt University.
 
 * [04/27/2025] Attended [ICSE'25](https://conf.researchr.org/home/icse-2025) in Ottawa, ON, Canada.
 
