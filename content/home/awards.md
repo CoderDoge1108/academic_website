@@ -33,8 +33,8 @@ item:
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - organization: Vanderbilt Univeristy
     date_start: '2025-05-06'
-    description: 'Fellowship for best paper at Vanderbilt University (5000$ Fellowship, Top 1 university-wide)'
-    title: Fellowship for C.F. Chen Best Paper Award from Vanderbilt University
+    description: 'Fellowship for best paper at Vanderbilt University (Top 1 university-wide) (5000$ Fellowship)'
+    title: The C.F. Chen Best Paper Award from Vanderbilt University
   - organization: Vanderbilt Univeristy
     date_start: '2022-06-01'
     description: 'Fellowship for Ph.D. study at Vanderbilt University (32500$/year)'
