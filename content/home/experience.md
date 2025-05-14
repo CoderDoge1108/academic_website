@@ -43,9 +43,9 @@ experience:
     company_logo: google
     location: Sunnyvale, CA, USA
     date_start: '2025-01-13'
-    date_end: '2025-04-04'
+    date_end: '2025-05-16'
     description: |2-
-        Google CORE Developer Group, Foundation Software Engineering
+        Google TAO Team, Google CORE Developer
 
         * Planned to participate in research projects focused on advancing ML Compiler Optimization.
         * Expected to explore methods to improve the performance and applicability of cutting-edge tools.
