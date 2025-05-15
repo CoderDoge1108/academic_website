@@ -18,11 +18,11 @@ design:
 
 ## 2025
 
+* [04/14/2025] One paper got accepted to [ACL'25](https://2025.aclweb.org/) with apx. AR of 20%.
+
 * [05/06/2025] Received the [C.F. Chen Best Paper Award](https://engineering.vanderbilt.edu/departments/computer-science/graduate/award-opportunities/#:~:text=The%20C.%20F.,and%20translational%20research%20in%20medicine.) from Vanderbilt University.
 
 * [04/27/2025] Attended [ICSE'25](https://conf.researchr.org/home/icse-2025) in Ottawa, ON, Canada.
-
-* [04/14/2025] One paper got accepted to [MLSys'25 YPS](https://mlsys.org/Conferences/2025/YPS).
 
 * [04/09/2025] Received ACM SIGSOFT [CAPS](https://www2.sigsoft.org/caps/capsmain/) Travel Grant for FSE'25/ISSTA'25.
 
