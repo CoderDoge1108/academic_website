@@ -18,7 +18,7 @@ design:
 
 ## 2025
 
-* [05/19/2025] Started my Research Intern at [IBM T.J. Watson Research](https://research.ibm.com/labs/yorktown-heights) in Yorktown Heights, NY, USA.
+* [05/19/2025] Started my Research Intern at [IBM Research](https://research.ibm.com/labs/yorktown-heights) in Yorktown Heights, NY, USA.
 
 * [05/15/2025] One paper got accepted to [ACL'25](https://2025.aclweb.org/) with apx. AR of 20%.
 
