@@ -18,6 +18,8 @@ design:
 
 ## 2025
 
+* [05/19/2025] Started my Research Intern at [IBM T.J. Watson Research](https://research.ibm.com/labs/yorktown-heights) in Yorktown Heights, NY, USA.
+
 * [05/15/2025] One paper got accepted to [ACL'25](https://2025.aclweb.org/) with apx. AR of 20%.
 
 * [05/06/2025] Received the [C.F. Chen Best Paper Award](https://engineering.vanderbilt.edu/departments/computer-science/graduate/award-opportunities/#:~:text=The%20C.%20F.,and%20translational%20research%20in%20medicine.) from Vanderbilt University.
