@@ -18,6 +18,8 @@ design:
 
 ## 2025
 
+* [06/01/2025] Received the [NSF Student Travel Support](https://conf.researchr.org/attending/issta-2025/nsf-student-travel-support) for FSE'25/ISSTA'25.
+
 * [05/19/2025] Started my Research Intern at [IBM Research](https://research.ibm.com/labs/yorktown-heights) in Yorktown Heights, NY, USA.
 
 * [05/15/2025] One paper got accepted to [ACL'25](https://2025.aclweb.org/) with apx. AR of 20%.
