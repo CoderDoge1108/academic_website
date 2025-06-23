@@ -99,6 +99,7 @@ highlight_name: true
 
 Greetings! I am Yifan Zhang (中文: 张一凡, 日本語: チャン・イーファン, Русский: Ифань Чжан), a Ph.D. student in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), where I am supervised by Prof. Kevin J. Leach and Prof. Yu Huang at the Institute for Software Integrated Systems (VU-ISIS). I’m concurrently pursuing an Online Master of Science in Computer Science at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Previously, I earned my B.A., B.Eng., and M.Eng. from [China University of Petroleum (CUP)](https://www.cup.edu.cn/english/) in Beijing and worked as a machine-learning engineer at [JD.com](https://corporate.jd.com/home). During my doctoral studies, I have completed research internships at [Google](https://research.google/), [IBM](https://research.ibm.com/), [Intel](https://www.intel.com/content/www/us/en/homepage.html), and [ByteDance](https://www.bytedance.com/en/). My research focuses on leveraging AI for Programming Languages and Software Engineering (AI4Code), particularly on integrating abstract interpretation methods enriched with symbolic reasoning into large language models for improved neural code analysis and comprehension.
 
-**Note:** I’m on the 2025–2026 job market in both academic (TTAP, RAP) and industry (research, applied, ML scientist) tracks and will be ready to begin full-time in mid-August 2025, with unlimited U.S. work authorization.
+**Note:** I’m on the 2025–2026 job market in both academic (TTAP, RAP) and industry (research, applied, ML scientist) tracks and will be ready to begin full-time in mid-August 2025. For U.S. positions, I do not require sponsorship.
+
 
  
