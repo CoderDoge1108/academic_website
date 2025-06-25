@@ -18,7 +18,7 @@ design:
 
 ## 2025
 
-* [06/25/2025] Attended [FSE'25](https://conf.researchr.org/home/fse-2025) in Trondheim, Trøndelag, Norway.
+* [06/22/2025] Attended [FSE'25](https://conf.researchr.org/home/fse-2025) in Trondheim, Trøndelag, Norway.
 
 * [06/01/2025] Received the [NSF Student Travel Support](https://conf.researchr.org/attending/issta-2025/nsf-student-travel-support) for FSE'25/ISSTA'25.
 
