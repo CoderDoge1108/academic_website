@@ -23,6 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Applied Scientist Intern
+    company: Amazon Web Services
+    company_url: 'https://aws.amazon.com/'
+    company_logo: amazon
+    location: Arlington, VA, USA
+    date_start: '2025-09-15'
+    date_end: '2025-12-19'
+    description: |2-
+        Automated Reasoning Group, Formal Methods and Programming Languages
+
+        * Planned to assist in research exploring LLM formal reasoning projects.
+        * Expected to contribute to the ongoing project with agentic workflow for system tasks.
+        * Will work with the team to build prototype and research on new topics.
+
   - title: Research Intern
     company: IBM T.J. Watson Research
     company_url: 'https://research.ibm.com/labs/yorktown-heights'
