@@ -26,7 +26,7 @@ experience:
   - title: Applied Scientist Intern
     company: Amazon Web Services
     company_url: 'https://aws.amazon.com/'
-    company_logo: aws
+    company_logo: amazon
     location: Arlington, VA, USA
     date_start: '2025-09-15'
     date_end: '2025-12-19'
