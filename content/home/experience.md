@@ -119,33 +119,33 @@ experience:
   #       * Built a contrastive learning method to facilitates representation learning of binary code visualized by distribution analysis, and improves the performance on all three downstream tasks of software engineering and security by 5.45% on average compared to state-of-the-art large-scale language representation models (under reivew by [ISSTA](https://conf.researchr.org/home/issta-2023)).
   #       * Designed an AST-based representation for source code that leverages program structure and semantics to improve state-of-the-art code clone detection. Our experimental results show that the model improves state-of-the-art neural clone detection approaches by up to 6.6% in F-1 score (accepted by [ICSE](https://conf.researchr.org/home/icse-2023) workshop).
 
-  # - title: Research Associate
-  #   company: Duke University
-  #   company_url: 'https://duke.edu/'
-  #   company_logo: duke
-  #   location: Durham, NC, USA
-  #   date_start: '2021-07-01'
-  #   date_end: '2022-06-01'
-  #   description: |2-
-  #       Duke Center for AI in Radiology, Duke University Medical Center
+  - title: Research Associate
+    company: Duke University
+    company_url: 'https://duke.edu/'
+    company_logo: duke
+    location: Durham, NC, USA
+    date_start: '2021-07-01'
+    date_end: '2022-06-01'
+    description: |2-
+        Duke Center for AI in Radiology, Duke University Medical Center
 
-  #       * Designed a pipeline for tumor detection using ViT and FPN, achieving a 13.1% improvement in AP50.
-  #       * Introduced anomaly detection methods for high-resolution medical images with domain generalization.
-  #       * Both methods achieved state-of-the-art results, with work accepted by [MICCAIW'22](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_5) and [IEEE-TMI](https://ieeexplore.ieee.org/abstract/document/10247020/).
+        * Designed a pipeline for tumor detection using ViT and FPN, achieving a 13.1% improvement in AP50.
+        * Introduced anomaly detection methods for high-resolution medical images with domain generalization.
+        * Both methods achieved state-of-the-art results, with work accepted by [MICCAIW'22](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_5) and [IEEE-TMI](https://ieeexplore.ieee.org/abstract/document/10247020/).
 
-  # - title: Senior Research Assistant
-  #   company: The University of Hong Kong
-  #   company_url: 'https://www.hku.hk/'
-  #   company_logo: hku
-  #   location: Hong Kong SAR
-  #   date_start: '2021-03-01'
-  #   date_end: '2021-09-01'
-  #   description: |2-
-  #       HKU Business School
+  - title: Senior Research Assistant
+    company: The University of Hong Kong
+    company_url: 'https://www.hku.hk/'
+    company_logo: hku
+    location: Hong Kong SAR
+    date_start: '2021-03-01'
+    date_end: '2021-09-01'
+    description: |2-
+        HKU Business School
         
-  #       * Developed an intelligent debt collection system using data-driven deep reinforcement learning.
-  #       * Utilized transformers and policy gradient models for long-term decision making.
-  #       * Explored GNN applications for finance, leading to a paper on code clone detection accepted by [ICSEW'23](https://arxiv.org/abs/2208.08067).
+        * Developed an intelligent debt collection system using data-driven deep reinforcement learning.
+        * Utilized transformers and policy gradient models for long-term decision making.
+        * Explored GNN applications for finance, leading to a paper on code clone detection accepted by [ICSEW'23](https://arxiv.org/abs/2208.08067).
 
   - title: Machine Learning Engineer
     company: JD.COM
@@ -161,19 +161,19 @@ experience:
         * Built a heterogeneous graph and GNN models to improve credit score classification by 5%.
         * Invented a GAN-styled model with differential privacy, leading to 10 CN patents, and awarded in the [JD Discovery Cup Patent Competition](https://blog.csdn.net/JDDTechTalk/article/details/109615799) (Top 0.1%).
     
-  # - title: Data Science Mentor
-  #   company: Udacity
-  #   company_url: 'https://www.udacity.com/'
-  #   company_logo: udacity
-  #   location: Shanghai, CN
-  #   date_start: '2018-05-01'
-  #   date_end: '2019-04-01'
-  #   description: |2-
-  #       Institute for Data Science, Udacity China
+  - title: Data Science Mentor
+    company: Udacity
+    company_url: 'https://www.udacity.com/'
+    company_logo: udacity
+    location: Shanghai, CN
+    date_start: '2018-05-01'
+    date_end: '2019-04-01'
+    description: |2-
+        Institute for Data Science, Udacity China
         
-  #       * Taught VIP students Python, statistics, machine learning and data mining
-  #       * Organized online community activities and created instructional materials
-  #       * Awarded [Oustanding Mentor](https://www.udacity.com/start-mentoring) of Udacity China (Top 1%)
+        * Taught VIP students Python, statistics, machine learning and data mining
+        * Organized online community activities and created instructional materials
+        * Awarded [Oustanding Mentor](https://www.udacity.com/start-mentoring) of Udacity China (Top 1%)
     
 
   # - title: Undergraduate Exchange Student
