@@ -13,13 +13,14 @@ design:
 ---
 
 ### Academic Mentorship
-* 2024 [Suad Mohamed](https://www.linkedin.com/in/suad-hmohamed/), undergraduate student in CS & Psychology at Belmont University (co-advised by Mr. Zachary Karas)
+* 2025 [Zichen (Ryan) Zhu](https://www.linkedin.com/in/zichen-ryan-zhu-03b492328/), undergraduate student in CS & Math & Political Science at Vanderbilt University
+* 2024 [Suad Mohamed](https://www.linkedin.com/in/suad-hmohamed/), undergraduate student in CS & Psychology at Belmont University (co-mentored by Mr. Zachary Karas)
 * 2024 [Manish Acharya](https://www.linkedin.com/in/manishacharya60/), undergraduate student in CS & Math at Vanderbilt University
 * 2023 [Jieyu Li](https://www.linkedin.com/in/jieyu-jerry-li-294a7828a/), bachelor in EEE at Shanghai Jiaotong University, master in ECE at Vanderbilt University
 * 2023 [Luka Mushkudiani](https://www.linkedin.com/in/luka-mushkudiani-043937222/), undergraduate student in CS & Math at Vanderbilt University
 * 2022 [Eric Li](https://www.linkedin.com/in/jiliang-eric-li/), undergraduate student in CS & Math at Vanderbilt University
 
-### Program Comittee (PC) Member
+### Program Committee Member and Conference Reviewer
 * 2024 Data-centric Machine Learning Research Workshop at ICML (DMLR@ICML'24)
 * 2024 Annual Conference on Neural Information Processing Systems (NeurIPS'24)
 * 2024 ACM Conference on Computer and Communications Security (CCS'24) Artifact Evaluation Track
