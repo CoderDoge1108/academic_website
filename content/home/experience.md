@@ -145,7 +145,7 @@ experience:
         
         * Developed an intelligent debt collection system using data-driven deep reinforcement learning.
         * Utilized transformers and policy gradient models for long-term decision making.
-        * Explored GNN applications for finance, leading to a paper on code clone detection accepted by [ICSEW'23](https://arxiv.org/abs/2208.08067).
+        * Explored GNN applications for finance and prototyped in production environment.
 
   - title: Machine Learning Engineer
     company: JD.COM
