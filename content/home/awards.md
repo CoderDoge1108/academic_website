@@ -31,11 +31,11 @@ item:
   #   organization_url: https://www.edx.org
   #   title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - organization: Vanderbilt Univeristy
+  - organization: Vanderbilt University
     date_start: '2025-05-06'
-    description: 'Fellowship for the best paper at Vanderbilt University (Top 1 university-wide) (5000$ Fellowship)'
+    description: 'Scholarship for the best paper at Vanderbilt University (Top 1 university-wide) (5000$ Scholarship)'
     title: The C.F. Chen Best Paper Award from Vanderbilt University
-  # - organization: Vanderbilt Univeristy
+  # - organization: Vanderbilt University
   #   date_start: '2022-06-01'
   #   description: 'Fellowship for Ph.D. study at Vanderbilt University (32500$/year)'
   #   title: Research Fellowship from Defense Advanced Research Projects Agency (DARPA) 
@@ -61,11 +61,11 @@ item:
     description: 'Student award for outstanding graduates at Beijing (Top 0.1% nationwide)'
   - organization: Tenaris
     date_start: '2017-10-01'
-    title: Roberto Roca Education Fellowship
-    description: 'Fellowship for outstanding graduate students in China (Top 10 nationwide)'
+    title: Roberto Roca Education Scholarship
+    description: 'Scholarship for outstanding graduate students in China (Top 10 nationwide)'
   - organization: Chinese Ministry of Education
     date_start: '2015-12-01'
-    title: Chinese National Fellowship
+    title: Chinese National Fellowship for Overseas Study
     description: 'Fellowship for undergraduate students in overseas study (CA$6000/4 months)'
   - organization: China University of Petroleum, Beijing
     date_start: '2015-06-01'
@@ -73,11 +73,11 @@ item:
     description: 'Student award for the best undergraduates (Top 4 university-wide)'
   - organization: Schlumberger
     date_start: '2014-10-01'
-    title: Schlumberger Engineering Fellowship
-    description: 'Fellowship for outstanding undergraduate students  (Top 8 university-wide)'
+    title: Schlumberger Engineering Scholarship
+    description: 'Scholarship for outstanding undergraduate students  (Top 8 university-wide)'
   - organization: Chinese Ministry of Education
     date_start: '2013-10-01'
-    title: Chinese National Scholarship
+    title: Chinese National Scholarship for Outstanding Merits
     description: 'Scholarship for top undergraduate students in China (Top 0.2% nationwide)'
 
 design:
