@@ -47,9 +47,9 @@ experience:
     description: |2-
         AI Reasoning Group, Neuro-symbolic AI
 
-        * Planned to assist in research exploring AI techniques for solving LLM Reasoning problems.
-        * Expected to contribute to the development and evaluation of innovative solutions in AI.
-        * Will support the team in designing and testing scalable systems for practical applications.
+        * Architected a self-improving planning framework with the IBM Watson AI pillar that utilized a parallelized Monte Carlo Tree Search.
+        * Guided the search with a symbolic value function derived from a dynamically learned rule base.
+        * Used an LLM as an inductive learner to discover and refine strategic heuristics from successful plans, enabling efficient reasoning on complex agentic tasks.
 
   - title: Student Researcher
     company: Google LLC
@@ -61,9 +61,9 @@ experience:
     description: |2-
         Google TAO Team, Google CORE Developer
 
-        * Planned to participate in research projects focused on advancing ML Compiler Optimization.
-        * Expected to explore methods to improve the performance and applicability of cutting-edge tools.
-        * Will collaborate with the team to analyze and enhance existing frameworks.
+        * Designed an automated pipeline with Google CORE/Google Research that uses LLMs to generate C++ code that simulates LLVM IR profiles.
+        * Enabled benchmarking and performance analysis of production code through the automated pipeline.
+        * The system supported AI models in learning compiler behavior and optimization strategies across diverse hardware platforms, with safeguards to preserve IP integrity.
 
   - title: GenAI Research Intern
     company: Intel Corporation
