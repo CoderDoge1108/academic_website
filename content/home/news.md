@@ -110,7 +110,7 @@ design:
 
 ## 2022
 
-* [12/04/2022] Invited as a Junior reviewer for [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers).
+* [12/04/2022] Invited as a shadow reviewer for [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers).
 
 * [11/28/2022] Attended [NeurIPS'22](https://nips.cc/) in New Orleans, LA, USA.
 
