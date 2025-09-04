@@ -35,10 +35,10 @@ item:
     date_start: '2025-05-06'
     description: 'Scholarship for the best paper at Vanderbilt University (Top 1 university-wide) (5000$ Scholarship)'
     title: The C.F. Chen Best Paper Award from Vanderbilt University
-  - organization: Vanderbilt University
-    date_start: '2022-06-01'
-    description: 'Assistantship for Ph.D. study at Vanderbilt University (32500$/year)'
-    title: Research Assistantship from Defense Advanced Research Projects Agency (DARPA) 
+  # - organization: Vanderbilt University
+  #   date_start: '2022-06-01'
+  #   description: 'Assistantship for Ph.D. study at Vanderbilt University (32500$/year)'
+  #   title: Research Assistantship from Defense Advanced Research Projects Agency (DARPA) 
   - organization: Duke Univeristy
     date_start: '2021-07-01'
     description: 'Fellowship for research at Duke University ($36000/year)'
