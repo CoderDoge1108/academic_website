@@ -35,14 +35,14 @@ item:
     date_start: '2025-05-06'
     description: 'Scholarship for the best paper at Vanderbilt University (Top 1 university-wide) (5000$ Scholarship)'
     title: The C.F. Chen Best Paper Award from Vanderbilt University
-  # - organization: Vanderbilt University
-  #   date_start: '2022-06-01'
-  #   description: 'Fellowship for Ph.D. study at Vanderbilt University (32500$/year)'
-  #   title: Research Fellowship from Defense Advanced Research Projects Agency (DARPA) 
-  # - organization: Duke Univeristy
-  #   date_start: '2021-07-01'
-  #   description: 'Fellowship for research at Duke University ($36000/year)'
-  #   title: Research Fellowship from National Institutes of Health (NIH)
+  - organization: Vanderbilt University
+    date_start: '2022-06-01'
+    description: 'Assistantship for Ph.D. study at Vanderbilt University (32500$/year)'
+    title: Research Assistantship from Defense Advanced Research Projects Agency (DARPA) 
+  - organization: Duke Univeristy
+    date_start: '2021-07-01'
+    description: 'Fellowship for research at Duke University ($36000/year)'
+    title: Research Fellowship from National Institutes of Health (NIH)
   - organization: JD.COM
     date_start: '2020-07-01'
     description: 'Employee award for distinguished profit-making technical innovation at JD.COM (Top %0.1 company-wide)'
