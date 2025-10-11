@@ -101,7 +101,7 @@ design:
 
 * [09/22/2025] Invited as a reviewer for [ICLR'26](https://iclr.cc/).
 
-* [09/15/2025] Started my AS Intern at [AWS Automated Reasoning Group](https://www.amazon.science/latest-news/how-awss-automated-reasoning-group-helps-make-aws-and-other-amazon-products-more-secure) in Arlington, VA, USA.
+* [09/15/2025] Started my AS Intern at [Amazon AWS](https://www.amazon.science/latest-news/how-awss-automated-reasoning-group-helps-make-aws-and-other-amazon-products-more-secure) in Arlington, VA, USA.
 
 * [07/12/2025] Invited as a reviewer for [AAAI'26](https://aaai.org/Conferences/AAAI-26/).
 
