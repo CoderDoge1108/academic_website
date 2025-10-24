@@ -97,6 +97,8 @@ design:
 
 ## 2025
 
+* [10/24/2025] Passed my Ph.D. [Qualifying Examination](https://engineering.vanderbilt.edu/departments/computer-science/graduate/admission-to-candidacy/#qualifying-examination).
+
 * [10/11/2025] One paper got accepted to [TMLR](https://jmlr.org/tmlr/).
 
 * [09/22/2025] Invited as a reviewer for [ICLR'26](https://iclr.cc/).
