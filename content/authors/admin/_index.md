@@ -22,7 +22,7 @@ bio: Yifan is a researcher focusing on AI for software engineering, graph neural
 
 # Interests to show in About widget
 interests:
-  - Neural-Symbolic AI for Programming Languages/Software Engineering
+  - Neural-Symbolic AI for PL/SE
   - Data-Centric AI for Systems
   - Large Language Models
   - LLVM IR/Binary Code Analysis
