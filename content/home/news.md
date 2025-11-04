@@ -97,6 +97,8 @@ design:
 
 ## 2025
 
+* [12/11/2024] Invited as a reviewer for [LLM4Code@ICSE'26](https://llm4code.github.io/).
+
 * [10/27/2025] Attended [LLVM Developers' Meeting](https://llvm.swoogo.com/2025devmtg/home) in Santa Clara, CA, USA.
 
 * [10/24/2025] Passed my Ph.D. [Qualifying Examination](https://engineering.vanderbilt.edu/departments/computer-science/graduate/admission-to-candidacy/#qualifying-examination).
