@@ -97,7 +97,7 @@ design:
 
 ## 2025
 
-* [12/11/2024] Invited as a reviewer for [LLM4Code@ICSE'26](https://llm4code.github.io/).
+* [11/03/2025] Invited as a reviewer for [LLM4Code@ICSE'26](https://llm4code.github.io/).
 
 * [10/27/2025] Attended [LLVM Developers' Meeting](https://llvm.swoogo.com/2025devmtg/home) in Santa Clara, CA, USA.
 
