@@ -97,6 +97,8 @@ design:
 
 ## 2025
 
+* [11/07/2025] One paper got accepted to [AAAI'26](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) with AR of 17.6%.
+
 * [11/03/2025] Invited as a reviewer for [LLM4Code@ICSE'26](https://llm4code.github.io/).
 
 * [10/27/2025] Attended [LLVM Developers' Meeting](https://llvm.swoogo.com/2025devmtg/home) in Santa Clara, CA, USA.
