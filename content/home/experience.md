@@ -23,6 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Research Scientist
+    company: Salesforce AI Research
+    company_url: 'https://www.salesforceairesearch.com/'
+    company_logo: salesforce
+    location: Palo Alto, CA, USA
+    date_start: '2026-01-20'
+    date_end: 'Present'
+    description: |2-
+        AI4SE, HCAI or Post-Training/Reasoning (TBD)
+
+        * Planned work centers on a cognitive framework for autonomous software development.
+        * Aims to explore multi-tier memory and reflective reasoning to ensure long-horizon consistency in enterprise-scale repositories.
+
   - title: Applied Scientist Intern
     company: Amazon Web Services
     company_url: 'https://aws.amazon.com/'
