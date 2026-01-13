@@ -21,6 +21,13 @@ design:
 * 2022 [Eric Li](https://www.linkedin.com/in/jiliang-eric-li/), undergraduate student in CS & Math at Vanderbilt University
 
 ### Program Committee Member and Conference Reviewer
+* 2026 International Workshop on Large Language Models for Code (LLM4Code@ICSE'26)
+* 2026 AAAI Conference on Artificial Intelligence (AAAI'26)
+* 2025 Annual Meeting of the Association for Computational Linguistics (ACL'25) Industry Track
+* 2025 Annual Conference on Neural Information Processing Systems (NeurIPS'25) Datasets & Benchmarks Track
+* 2025 International Conference on Machine Learning (ICML'25)
+* 2025 International Conference on Learning Representations (ICLR'25)
+* 2024 Annual Conference on Neural Information Processing Systems (NeurIPS'24) Datasets & Benchmarks Track
 * 2024 Data-centric Machine Learning Research Workshop at ICML (DMLR@ICML'24)
 * 2024 Annual Conference on Neural Information Processing Systems (NeurIPS'24)
 * 2024 ACM Conference on Computer and Communications Security (CCS'24) Artifact Evaluation Track

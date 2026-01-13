@@ -95,7 +95,13 @@ design:
 
 ---
 
+## 2026
+
+* [01/05/2026] Started my full-time RS at [Salesforce AI Research](https://www.salesforceairesearch.com/) in Palo Alto, CA, USA.
+
 ## 2025
+
+* [12/26/2025] One paper got accepted to [ICPC'26](https://conf.researchr.org/track/icpc-2026/icpc-2026-research) with AR of 26.8%.
 
 * [11/07/2025] One paper got accepted to [AAAI'26](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) with AR of 17.6%.
 
