@@ -29,7 +29,7 @@ experience:
     company_logo: salesforce
     location: Palo Alto, CA, USA
     date_start: '2026-01-20'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
         AI4SE, HCAI or Post-Training/Reasoning (TBD)
 
