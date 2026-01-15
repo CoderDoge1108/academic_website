@@ -31,10 +31,11 @@ experience:
     date_start: '2026-01-20'
     date_end: ''
     description: |2-
-        AI4SE, HCAI or Post-Training/Reasoning (TBD)
+        AI Research Group, Enterprise Computer-Use Agent
 
-        * Planned work centers on a cognitive framework for autonomous software development.
-        * Aims to explore multi-tier memory and reflective reasoning to ensure long-horizon consistency in enterprise-scale repositories.
+        * Planned work focuses on an Action-as-Code paradigm to transition from fragile GUI-based interactions to robust programmatic execution.
+
+        * Aims to develop autonomous agents capable of navigating fragmented enterprise environments with long-horizon consistency.
 
   - title: Applied Scientist Intern
     company: Amazon Web Services
