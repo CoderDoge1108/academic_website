@@ -97,6 +97,8 @@ design:
 
 ## 2026
 
+* [01/19/2026] Invited as a reviewer for [ARR'26 January](https://aclrollingreview.org/dates).
+
 * [01/05/2026] Started my full-time RS at [Salesforce AI Research](https://www.salesforceairesearch.com/) in Palo Alto, CA, USA.
 
 ## 2025
