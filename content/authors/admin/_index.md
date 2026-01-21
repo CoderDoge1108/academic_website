@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position/tagline
 # role: Ph.D. Candidate at Vanderbilt University
-role: Research Scientist at Salesforce
+role: Research Scientist, AI Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
