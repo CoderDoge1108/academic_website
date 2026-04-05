@@ -99,7 +99,7 @@ design:
 
 ## 2026
 
-* [04/05/2026] Received the great review distinction for [ARR'26 January](https://aclrollingreview.org/dates).
+* [04/05/2026] Received the great review distinction for [ACL ARR'26](https://aclrollingreview.org/dates) in January.
 
 * [03/25/2026] One paper got accepted to [FSE'26](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers) with AR of 26.41%.
 
@@ -107,7 +107,7 @@ design:
 
 * [03/11/2026] Passed my Ph.D. [Dissertation Defense](https://engineering.vanderbilt.edu/departments/computer-science/graduate/admission-to-candidacy/#dissertation-defense).
 
-* [01/19/2026] Invited as a reviewer for [ARR'26 January](https://aclrollingreview.org/dates).
+* [01/19/2026] Invited as a reviewer for [ACL ARR'26](https://aclrollingreview.org/dates) in January.
 
 * [01/05/2026] Started my full-time RS at [Salesforce AI Research](https://www.salesforceairesearch.com/) in Palo Alto, CA, USA.
 
