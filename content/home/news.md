@@ -99,6 +99,8 @@ design:
 
 ## 2026
 
+* [04/05/2026] Received the great review distinction for [ARR'26 January](https://aclrollingreview.org/dates).
+
 * [03/25/2026] One paper got accepted to [FSE'26](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers) with AR of 26.41%.
 
 * [03/24/2026] Invited as a reviewer for [NeurIPS'26](https://neurips.cc/).
