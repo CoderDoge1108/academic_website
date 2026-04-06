@@ -99,6 +99,10 @@ design:
 
 ## 2026
 
+* [04/06/2026] One paper got accepted to [ACL'26](https://2026.aclweb.org/) with apx. AR of 20%.
+
+* [04/06/2026] One paper got accepted to [ACL'26 Findings](https://2026.aclweb.org/).
+
 * [04/05/2026] Received the [Great Review Distinction](https://stats.aclrollingreview.org/iterations/2026/january/) for ACL ARR'26 in January.
 
 * [03/25/2026] One paper got accepted to [FSE'26](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers) with AR of 26.41%.
