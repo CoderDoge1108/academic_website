@@ -99,7 +99,7 @@ design:
 
 ## 2026
 
-* [04/05/2026] Received the great review distinction for [ACL ARR'26](https://aclrollingreview.org/dates) in January.
+* [04/05/2026] Received the [Great Review Distinction](https://stats.aclrollingreview.org/iterations/2026/january/) for ACL ARR'26 in January.
 
 * [03/25/2026] One paper got accepted to [FSE'26](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers) with AR of 26.41%.
 
