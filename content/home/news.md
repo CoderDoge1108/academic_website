@@ -99,6 +99,8 @@ design:
 
 ## 2026
 
+* [04/15/2026] Invited as a reviewer for [ICSE'27 Demo](https://conf.researchr.org/track/icse-2027/icse-2027-demonstrations).
+
 * [04/06/2026] One paper got accepted to [ACL'26](https://2026.aclweb.org/) with AR of 19%.
 
 * [04/06/2026] One paper got accepted to [ACL'26 Findings](https://2026.aclweb.org/).
