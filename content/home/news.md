@@ -99,7 +99,7 @@ design:
 
 ## 2026
 
-* [04/06/2026] One paper got accepted to [ACL'26](https://2026.aclweb.org/) with apx. AR of 20%.
+* [04/06/2026] One paper got accepted to [ACL'26](https://2026.aclweb.org/) with AR of 19%.
 
 * [04/06/2026] One paper got accepted to [ACL'26 Findings](https://2026.aclweb.org/).
 
