@@ -26,12 +26,20 @@ bio: Yifan is a researcher focusing on AI for software engineering, graph neural
 
 # Interests to show in About widget
 interests:
-  - Computer-Use Agent
-  - Neuro-Symbolic AI for PL/SE
-  - Data-Centric AI for Systems
-  - LLVM IR/Binary Code Analysis
+  - AI for Code and Software Engineering
+  - Program Analysis and Symbolic Reasoning
+  - Interactive and Agentic AI Systems
+  - Data-Centric AI for Software and Systems
+  - LLVM IR and Binary Code Analysis
   - Compiler Optimization
-  - Applied NLP/ML
+
+# interests:
+#   - Computer-Use Agent
+#   - Neuro-Symbolic AI for PL/SE
+#   - Data-Centric AI for Systems
+#   - LLVM IR/Binary Code Analysis
+#   - Compiler Optimization
+#   - Applied NLP/ML
 
 # Education to show in About widget
 education:
@@ -103,7 +111,7 @@ highlight_name: true
 
 ---
 
-Greetings! I'm Yifan Zhang (中文: 张一凡, 日本語: チャン・イーファン, Русский: Ифань Чжан), a Research Scientist at {{< icon name="salesforce" pack="fab" >}} [Salesforce AI Research (SFR)](https://www.salesforceairesearch.com/) in San Francisco/Palo Alto. I received my Ph.D. in Computer Science from [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), where I was supervised by Prof. Kevin J. Leach and Prof. Yu Huang at the Institute for Software Integrated Systems (VU-ISIS). I am also pursuing an Online Master of Science in Computer Science at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Previously, I earned my B.A., B.Eng., and M.Eng. from [China University of Petroleum (CUP)](https://www.cup.edu.cn/english/) in Beijing and worked as a full-time MLE at [JD.com](https://corporate.jd.com/home). During my doctoral studies, I completed research internships at {{< icon name="google" pack="fab" >}}[Google Research](https://research.google/), {{< icon name="aws" pack="fab" >}} [Amazon AWS](https://aws.amazon.com/), [IBM Research](https://research.ibm.com/), [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html), and {{< icon name="tiktok" pack="fab" >}}[TikTok/ByteDance](https://www.bytedance.com/en/). My research focuses on leveraging AI for Programming Languages and Software Engineering (AI4Code), with a particular emphasis on combining program analysis, symbolic reasoning, and Computer-Use Agents (CUA) to improve neural code analysis, comprehension, and software engineering automation.
+Greetings! I'm Yifan Zhang (中文: 张一凡, 日本語: チャン・イーファン, Русский: Ифань Чжан), a Research Scientist at {{< icon name="salesforce" pack="fab" >}} [Salesforce AI Research (SFR)](https://www.salesforceairesearch.com/) in San Francisco/Palo Alto. I received my Ph.D. in Computer Science from [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), where I was supervised by Prof. Kevin J. Leach and Prof. Yu Huang at the Institute for Software Integrated Systems (VU-ISIS). I am also pursuing an Online Master of Science in Computer Science at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Previously, I earned my B.A., B.Eng., and M.Eng. from [China University of Petroleum (CUP)](https://www.cup.edu.cn/english/) in Beijing and worked as a full-time MLE at [JD.com](https://corporate.jd.com/home). During my doctoral studies, I completed research internships at {{< icon name="google" pack="fab" >}}[Google Research](https://research.google/), {{< icon name="aws" pack="fab" >}} [Amazon AWS](https://aws.amazon.com/), [IBM Research](https://research.ibm.com/), [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html), and {{< icon name="tiktok" pack="fab" >}}[TikTok/ByteDance](https://www.bytedance.com/en/). My research focuses on leveraging AI for Programming Languages and Software Engineering (AI4Code), with a particular emphasis on combining program analysis and symbolic reasoning with interactive AI systems to improve neural code analysis, comprehension, and software engineering automation.
 
 <!-- Greetings! I'm Yifan Zhang (中文: 张一凡, 日本語: チャン・イーファン, Русский: Ифань Чжан), a Research Scientist at {{< icon name="salesforce" pack="fab" >}} [Salesforce AI Research (SFR)](https://www.salesforceairesearch.com/) in San Francisco/Palo Alto. I'm wrapping up my Ph.D. in Computer Science at [Vanderbilt University (Vandy)](https://www.vanderbilt.edu/), where I am supervised by Prof. Kevin J. Leach and Prof. Yu Huang at the Institute for Software Integrated Systems (VU-ISIS), while also pursuing an Online Master of Science in Computer Science at [Georgia Institute of Technology (GaTech)](https://www.gatech.edu/). Previously, I earned my B.A., B.Eng., and M.Eng. from [China University of Petroleum (CUP)](https://www.cup.edu.cn/english/) in Beijing and worked as a full-time MLE at [JD.com](https://corporate.jd.com/home). During my doctoral studies, I have completed research internships at {{< icon name="google" pack="fab" >}}[Google Research](https://research.google/), {{< icon name="aws" pack="fab" >}} [Amazon AWS](https://aws.amazon.com/), [IBM Research](https://research.ibm.com/), [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html), and {{< icon name="tiktok" pack="fab" >}}[TikTok/ByteDance](https://www.bytedance.com/en/). My research focuses on leveraging AI for Programming Languages and Software Engineering (AI4Code), particularly on integrating abstract interpretation methods enriched with symbolic reasoning into LLMs and agentic workflows for improved neural code analysis and comprehension. -->
 
