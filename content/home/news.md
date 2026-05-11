@@ -99,6 +99,8 @@ design:
 
 ## 2026
 
+* [05/08/2026] Graduated from [Vanderbilt University](https://www.vanderbilt.edu/) with a Ph.D. in Computer Science.
+
 * [04/15/2026] Invited as a reviewer for [ICSE'27 Demo](https://conf.researchr.org/track/icse-2027/icse-2027-demonstrations).
 
 * [04/06/2026] One paper got accepted to [ACL'26](https://2026.aclweb.org/) with AR of 19%.
