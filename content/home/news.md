@@ -99,6 +99,8 @@ design:
 
 ## 2026
 
+* [06/01/2025] Received the [Oral Presentation](https://docs.google.com/spreadsheets/d/16ZuzEVhY1BAeZGK9LJskLcvqacy-7YuoAaK1yXoRcFQ/edit?gid=0#gid=0) for ACL'26 with OR of 3.9%.
+
 * [05/08/2026] Graduated from [Vanderbilt University](https://www.vanderbilt.edu/) with a Ph.D. in Computer Science.
 
 * [04/15/2026] Invited as a reviewer for [ICSE'27 Demo](https://conf.researchr.org/track/icse-2027/icse-2027-demonstrations).
