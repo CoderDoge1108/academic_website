@@ -99,7 +99,7 @@ design:
 
 ## 2026
 
-* [06/28/2026] One paper got accepted to [TOSEM](https://ai4math2026.github.io/) with IF of 6.9.
+* [06/28/2026] One paper got accepted to [TOSEM](https://dl.acm.org/journal/tosem/) with IF of 6.9.
 
 * [06/16/2026] One paper got accepted to [AI4Math@ICML'26](https://ai4math2026.github.io/).
 
