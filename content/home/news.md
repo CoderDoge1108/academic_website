@@ -99,6 +99,10 @@ design:
 
 ## 2026
 
+* [06/28/2026] One paper got accepted to [TOSEM](https://ai4math2026.github.io/) with IF of 6.9.
+
+* [06/16/2026] One paper got accepted to [AI4Math@ICML'26](https://ai4math2026.github.io/).
+
 * [06/01/2025] Received the [Oral Presentation](https://docs.google.com/spreadsheets/d/16ZuzEVhY1BAeZGK9LJskLcvqacy-7YuoAaK1yXoRcFQ/edit?gid=0#gid=0) for ACL'26 with OR of 3.9%.
 
 * [05/08/2026] Graduated from [Vanderbilt University](https://www.vanderbilt.edu/) with a Ph.D. in Computer Science.
@@ -179,7 +183,7 @@ design:
 
 * [12/10/2024] One paper got accepted to [ICSE'25 JF](https://conf.researchr.org/track/icse-2025/icse-2025-journal-first-papers).
 
-* [10/15/2024] One paper got accepted to [TMech](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516) with IF of 6.38.
+* [10/15/2024] One paper got accepted to [TMech](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516) with IF of 7.3.
 
 * [08/23/2024] Invited as a reviewer for [ICLR'25](https://iclr.cc/Conferences/2025).
 
@@ -193,7 +197,7 @@ design:
 
 * [05/24/2024] Invited as a reviewer for [NeurIPS'24](https://neurips.cc/Conferences/2024).
 
-* [04/23/2024] On paper got accepted to [TOSEM](https://dl.acm.org/journal/tosem) with IF of 4.978.
+* [04/23/2024] On paper got accepted to [TOSEM](https://dl.acm.org/journal/tosem) with IF of 6.6.
 
 * [04/09/2024] Invited as a reviewer for [CCS'24 AE](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-artifacts.html).
 
@@ -213,7 +217,7 @@ design:
 
 * [12/19/2023] Passed my Ph.D. [Preliminary Examination](https://engineering.vanderbilt.edu/cs/Graduate/CSExamination.php).
 
-* [09/05/2023] One paper got accepted to [TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) with IF of 11.037. 
+* [09/05/2023] One paper got accepted to [TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) with IF of 10.6. 
 
 * [07/13/2023] Invited as a reviewer for [AAAI'24](https://aaai.org/Conferences/AAAI-24/).
 
