@@ -103,7 +103,7 @@ design:
 
 * [06/16/2026] One paper got accepted to [AI4Math@ICML'26](https://ai4math2026.github.io/).
 
-* [06/01/2025] Received the [Oral Presentation](https://docs.google.com/spreadsheets/d/16ZuzEVhY1BAeZGK9LJskLcvqacy-7YuoAaK1yXoRcFQ/edit?gid=0#gid=0) for ACL'26 with OR of 3.9%.
+* [06/01/2026] Received the [Oral Presentation](https://docs.google.com/spreadsheets/d/16ZuzEVhY1BAeZGK9LJskLcvqacy-7YuoAaK1yXoRcFQ/edit?gid=0#gid=0) for ACL'26 with OR of 3.9%.
 
 * [05/08/2026] Graduated from [Vanderbilt University](https://www.vanderbilt.edu/) with a Ph.D. in Computer Science.
 
