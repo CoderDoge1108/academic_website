@@ -197,7 +197,7 @@ design:
 
 * [05/24/2024] Invited as a reviewer for [NeurIPS'24](https://neurips.cc/Conferences/2024).
 
-* [04/23/2024] On paper got accepted to [TOSEM](https://dl.acm.org/journal/tosem) with IF of 6.6.
+* [04/23/2024] One paper got accepted to [TOSEM](https://dl.acm.org/journal/tosem) with IF of 6.6.
 
 * [04/09/2024] Invited as a reviewer for [CCS'24 AE](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-artifacts.html).
 
