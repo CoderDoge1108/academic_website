@@ -49,7 +49,7 @@ education:
       year: 2022-2026
     - course: Georgia Institute of Technology
       institution: M.Sc. in Computer Science, Artificial Intelligence
-      year: 2022-2025
+      year: 2022-2026
     - course: China University of Petroleum
       institution: B.A., B.Eng., M.Eng. in English & Petroleum Engineering
       year: 2012-2019
