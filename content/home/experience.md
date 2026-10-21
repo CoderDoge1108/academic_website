@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Research Scientist
+  - title: Senior Research Scientist
     company: Salesforce AI Research
     company_url: 'https://www.salesforceairesearch.com/'
     company_logo: salesforce
@@ -31,11 +31,11 @@ experience:
     date_start: '2026-01-20'
     date_end: ''
     description: |2-
-        AI Research Group, Enterprise Computer-Use Agent
+        Computer-Use Agents and Coding Agents
 
-        * Planned work focuses on an Action-as-Code paradigm to transition from fragile GUI-based interactions to robust programmatic execution.
-
-        * Aims to develop autonomous agents capable of navigating fragmented enterprise environments with long-horizon consistency.
+        * Developed CLIFT, training a Gemma 4 31B web agent with LoRA using conformally certified, URL-aware rewards and reusing the verifier for judge-free test-time selection. Raised WebArena Infinity success from 61.8% to 74.6% and improved Online Mind2Web by 11.3 points on GPT-5.5 (NeurIPS'26).
+        * Developed DarwinX, evolving agent harnesses around a frozen model through regression-aware selection, independent confirmation, and cross-lineage recombination. Improved Terminal-Bench 2.1 and DeepSWE success by 7.2 and 9.4 percentage points, and reached 91.2% audit-clean pass@1 on WebArena Infinity.
+        * Contributed to verbal critiques for coding agents (Opera) and training data for harness-model co-evolution (CoTrace).
 
   - title: Applied Scientist Intern
     company: Amazon Web Services
@@ -45,11 +45,11 @@ experience:
     date_start: '2025-09-15'
     date_end: '2025-12-19'
     description: |2-
-        Automated Reasoning Group, Formal Methods and Programming Languages
+        Automated Reasoning Group, Stateful Cloud API Simulation
 
-        * Planned to assist in research exploring LLM formal reasoning projects.
-        * Expected to contribute to the ongoing project with agentic workflow for system tasks.
-        * Will work with the team to build prototype and research on new topics.
+        * Developed CloudTwin, an LLM-backed AWS API simulator integrated with LocalStack for Terraform testing without live cloud provisioning.
+        * Designed OASIS, a bounded operation-as-state memory for consistent replay of resource IDs and dependencies across long API traces.
+        * Achieved 91.4% project-level terraform apply success across 151 projects, versus 36.4% for LocalStack.
 
   - title: Research Intern
     company: IBM T.J. Watson Research
@@ -59,11 +59,11 @@ experience:
     date_start: '2025-05-19'
     date_end: '2025-08-08'
     description: |2-
-        AI Reasoning Group, Neuro-symbolic AI
+        AI Reasoning Group, Grounded and Reflective Agent Planning
 
-        * Architected a self-improving planning framework with the IBM Watson AI pillar that utilized a parallelized Monte Carlo Tree Search.
-        * Guided the search with a symbolic value function derived from a dynamically learned rule base.
-        * Used an LLM as an inductive learner to discover and refine strategic heuristics from successful plans, enabling efficient reasoning on complex agentic tasks.
+        * Developed SPIRAL, an LLM planning framework that embeds Planner, Simulator, and Critic roles in Monte Carlo Tree Search.
+        * Used predicted action outcomes and dense reflective feedback to guide multi-step tool-use planning without model fine-tuning.
+        * Achieved 83.6% cascaded accuracy on TaskBench DailyLifeAPIs with Llama 4 Maverick, versus 67.4% for LATS (AAAI'26).
 
   - title: Student Researcher
     company: Google LLC
@@ -89,9 +89,8 @@ experience:
     description: |2-
         Incubation and Disruptive Innovation (IDI) Group, Intel Silicon Valley
 
-        * Automated and enhanced construction scheduling for semiconductor projects using LLM-based systems.
-        * Integrated rule-based knowledge and in-context learning, improving efficiency by 2.8x compared to GPT-4o.
-        * Designed a novel DPO pipeline for better alignment of context and preference in construction automation.
+        * Developed CONSTRUCTA to automate scheduling for semiconductor fabrication facilities, combining construction-specific retrieval, dependency-aware context sampling, and DPO-based alignment with expert preferences.
+        * Evaluated on 4,340 construction activities, improving automated-planning accuracy by 28.9 percentage points over a GPT-4o basic-context baseline (NAACL'25 Industry).
 
   # - title: Visiting Student Researcher
   #   company: Yale University
@@ -115,10 +114,10 @@ experience:
     date_end: '2023-08-11'
     description: |2-
         Infrastructure Systems Lab, TikTok Applied Research Center
-        
-        * Implementing a hint recommendation system by applying representation learning on SQL execution trees.
-        * Optimizing query performance by identifying patterns in execution trees and reranking SQL hints.
-        * Enhancing data processing efficiency based on insights from execution tree representation.
+
+        * Enhanced ByteBrain's SQL pipeline with a representation-learning system for recommending optimizer hints and reranking execution plans across diverse table spaces and schemas.
+        * Designed a two-Transformer workflow and pretrained a generalizable plan reranker for the query-optimization stage downstream of SQL generation.
+        * Gave a technical talk at TikTok InfraLab and contributed to the team's LLM literature reviews and conference-paper reviews.
 
   # - title: Graduate Research Assistant
   #   company: Vanderbilt University
@@ -143,9 +142,8 @@ experience:
     description: |2-
         Duke Center for AI in Radiology, Duke University Medical Center
 
-        * Designed a pipeline for tumor detection using ViT and FPN, achieving a 13.1% improvement in AP50.
-        * Introduced anomaly detection methods for high-resolution medical images with domain generalization.
-        * Both methods achieved state-of-the-art results, with work accepted by [MICCAIW'22](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_5) and [IEEE-TMI](https://ieeexplore.ieee.org/abstract/document/10247020/).
+        * Developed tumor-insertion augmentation and a lightweight ResNet-ViT detector for breast tomosynthesis, improving lesion-detection AP50 by 13.1% ([MICCAIW'22](https://link.springer.com/chapter/10.1007/978-3-031-17979-2_5)).
+        * Co-developed SWSSL, a sliding-window self-supervised method for high-resolution anomaly detection that improved image-level AUC on breast tomosynthesis and chest X-rays ([IEEE TMI'23](https://ieeexplore.ieee.org/abstract/document/10247020/)).
 
   - title: Senior Research Assistant
     company: The University of Hong Kong
@@ -156,12 +154,11 @@ experience:
     date_end: '2021-09-01'
     description: |2-
         HKU Business School
-        
-        * Developed an intelligent debt collection system using data-driven deep reinforcement learning.
-        * Utilized transformers and policy gradient models for long-term decision making.
-        * Explored GNN applications for finance and prototyped in production environment.
 
-  - title: Machine Learning Engineer
+        * Developed an intelligent debt-collection system that uses Transformer-based representations of customer interaction histories and offline policy-gradient learning to recommend long-horizon collection strategies.
+        * Modeled evolving account states to support context-aware decisions across multi-step workflows.
+
+  - title: Machine Learning Engineer II
     company: JD.COM
     company_url: 'https://corporate.jd.com/home'
     company_logo: jd
@@ -170,10 +167,10 @@ experience:
     date_end: '2021-03-01'
     description: |2-
         Intelligent Risk Management Lab, JD Technology
-        
-        * Developed DeepFM models for predicting credit use rate and profit, achieving a 21.4% increase.
-        * Built a heterogeneous graph and GNN models to improve credit score classification by 5%.
-        * Invented a GAN-styled model with differential privacy, leading to 10 CN patents, and awarded in the [JD Discovery Cup Patent Competition](https://blog.csdn.net/JDDTechTalk/article/details/109615799) (Top 0.1%).
+
+        * Built Bi-GRU and DeepFM models on user behavior features to predict credit use rate and profit, achieving a 21.4% overall profit increase.
+        * Built a heterogeneous graph and applied GNN models to propagate credit scores, improving XGB user-classification accuracy by 5%.
+        * Invented a GAN-styled model using differential privacy for federated learning. Granted 5 CN patents, with one awarded 1st Runner-up in the [JD Discovery Cup Patent Competition](https://blog.csdn.net/JDDTechTalk/article/details/109615799).
     
   - title: Data Science Mentor
     company: Udacity
