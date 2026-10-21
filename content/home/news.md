@@ -127,7 +127,7 @@ design:
 
 * [01/19/2026] Invited as a reviewer for [ACL ARR'26](https://aclrollingreview.org/dates) in January.
 
-* [01/05/2026] Started my full-time RS at [Salesforce AI Research](https://www.salesforceairesearch.com/) in Palo Alto, CA, USA.
+* [01/05/2026] Started my full-time RS at [Salesforce AI Research](https://www.salesforce.com/ai-research/) in Palo Alto, CA, USA.
 
 ## 2025
 

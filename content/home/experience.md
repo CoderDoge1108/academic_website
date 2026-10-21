@@ -25,7 +25,7 @@ experience:
 
   - title: Senior Research Scientist
     company: Salesforce AI Research
-    company_url: 'https://www.salesforceairesearch.com/'
+    company_url: 'https://www.salesforce.com/ai-research/'
     company_logo: salesforce
     location: Palo Alto, CA, USA
     date_start: '2026-01-20'
