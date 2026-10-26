@@ -99,9 +99,15 @@ design:
 
 ## 2026
 
+* [10/25/2026] Invited as an Area Chair for [WWW'27](https://www2027.thewebconf.org/).
+
+* [09/27/2026] Invited as a reviewer for [ICLR'27](https://iclr.cc/).
+
 * [09/24/2026] One paper got accepted to [NeurIPS'26](https://neurips.cc/) with AR of 25.7%.
 
 * [08/12/2026] Invited as a reviewer for [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).
+
+* [07/02/2026] Attended [ACL'26](https://2026.aclweb.org/) in San Diego, CA, USA.
 
 * [06/28/2026] One paper got accepted to [TOSEM](https://dl.acm.org/journal/tosem/) with IF of 6.9.
 
