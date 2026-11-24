@@ -95,9 +95,13 @@ design:
 
 # * [03/24/2026] Invited as a reviewer for [NeurIPS'26](https://neurips.cc/).
 
+# * [09/07/2026] Invited as a reviewer for [LLM4Code@ICSE'27](https://llm4code.github.io/).
+
 ---
 
 ## 2026
+
+* [11/12/2026] One paper got accepted to [EACL'27 Findings](https://2027.eacl.org/).
 
 * [10/25/2026] Invited as an Area Chair for [WWW'27](https://www2027.thewebconf.org/).
 
