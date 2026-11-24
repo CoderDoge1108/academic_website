@@ -101,7 +101,7 @@ design:
 
 ## 2026
 
-* [11/12/2026] One paper got accepted to [EACL'27 Findings](https://2027.eacl.org/).
+# * [11/12/2026] One paper got accepted to [EACL'27 Findings](https://2027.eacl.org/).
 
 * [10/25/2026] Invited as an Area Chair for [WWW'27](https://www2027.thewebconf.org/).
 
